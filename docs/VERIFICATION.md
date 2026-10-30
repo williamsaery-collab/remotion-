@@ -103,3 +103,13 @@ narration/SFX. Export measured -16.08 LUFS integrated, -5.78 dBTP true peak and
 layout correction keeps opening type inside the safe area. Build, source-integrity
 tests and Studio check passed. No physical phone-speaker listening test or complete
 full-length movie export is claimed.
+
+## Complete final film
+
+FinalFilm exported successfully as 5,027 1080p/30fps frames (2:47.57). Full video
+and audio decode passed. The complete prepared mix was compared to the AAC export;
+all three speakers' opening, middle and ending speech sections matched at their
+configured frame offsets. Original MP3 SHA-256 checks passed. No repeated adjacent
+one-second video samples were found. Actual exported loudness was -16.03 LUFS and
+true peak -3.19dBTP. See docs/FINAL-EXPORT-VERIFICATION.json for exact measurements,
+output hash, source coverage and render details.

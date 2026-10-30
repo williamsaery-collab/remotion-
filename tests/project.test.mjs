@@ -42,3 +42,18 @@ test('official narration remains complete, byte-identical and in requested order
  assert.ok(words.some(w=>w.endMs===19220));
  assert.ok(words.find(w=>w.startMs>20000).startMs>=20920);
 });
+
+test('final synchronization map covers all ten scenes and every full narration track',()=>{
+ const m=JSON.parse(read('src/production/sync-map.json'));
+ assert.equal(m.scenes.length,10);assert.equal(m.scenes[0].startFrame,0);
+ for(let i=0;i<m.scenes.length;i++){
+  const s=m.scenes[i];assert.ok(s.endFrame>s.startFrame);
+  if(i)assert.equal(m.scenes[i-1].endFrame,s.startFrame);
+ }
+ assert.equal(m.scenes.at(-1).endFrame,m.durationFrames);assert.equal(m.durationFrames,5027);
+ assert.equal(m.revealFrame,Math.round(28.84*30));assert.equal(m.titleRevealPhrase,'LTO Officer');
+ assert.equal(m.purposeNarrationPresent,false);
+ for(const p of m.phrases){assert.ok(p.endSeconds>p.startSeconds);assert.ok(p.startFrame>=0&&p.endFrame<=m.durationFrames);assert.ok(p.visualAsset&&p.animation&&p.transition);}
+ for(const t of m.tracks){assert.ok(t.fromFrame+Math.ceil(t.sourceSeconds*30)<=m.durationFrames);assert.equal(t.playbackRate,1);assert.equal(t.trimStartFrames,0);}
+ const captions=JSON.parse(read('src/production/all-captions.json'));for(const w of captions)assert.ok(w.endMs>=w.startMs);
+});

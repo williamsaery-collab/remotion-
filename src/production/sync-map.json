@@ -1,0 +1,690 @@
+{
+  "fps": 30,
+  "durationFrames": 5027,
+  "revealFrame": 865,
+  "revealSeconds": 28.84,
+  "titleRevealPhrase": "LTO Officer",
+  "audioOrder": [
+    "ria",
+    "micah",
+    "joseph"
+  ],
+  "tracks": [
+    {
+      "speaker": "ria",
+      "file": "voices/ria.mp3",
+      "sha256": "cf76273bfee1e1c7972ef0b376cce80ac25257152887854cc747c40c010ae926",
+      "sourceSeconds": 53.786122,
+      "fromFrame": 0,
+      "durationFrames": 1614,
+      "playbackRate": 1,
+      "trimStartFrames": 0,
+      "cleanedFile": "voices/cleaned/ria.flac"
+    },
+    {
+      "speaker": "micah",
+      "file": "voices/micah.mp3",
+      "sha256": "2fd17558604628d7b13c6f29e2db83933b19206d12d09c58fb3488dab8126c29",
+      "sourceSeconds": 43.023673,
+      "fromFrame": 1629,
+      "durationFrames": 1291,
+      "playbackRate": 1,
+      "trimStartFrames": 0,
+      "cleanedFile": "voices/cleaned/micah.flac"
+    },
+    {
+      "speaker": "joseph",
+      "file": "voices/joseph.mp3",
+      "sha256": "2002d2f5280c8814c0428f89509a363ca9a5225cf5e0003ec93981a69689bc79",
+      "sourceSeconds": 57.730612,
+      "fromFrame": 2935,
+      "durationFrames": 1732,
+      "playbackRate": 1,
+      "trimStartFrames": 0,
+      "cleanedFile": "voices/cleaned/joseph.flac"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "title": "The documentation problem",
+      "startFrame": 0,
+      "endFrame": 207,
+      "asset": "vector/road",
+      "overlapFrames": 18
+    },
+    {
+      "id": 2,
+      "title": "From paperwork to a smarter approach",
+      "startFrame": 207,
+      "endFrame": 709,
+      "asset": "vector/process",
+      "overlapFrames": 18
+    },
+    {
+      "id": 3,
+      "title": "MiJoRi Tech introduces LTO Officer",
+      "startFrame": 709,
+      "endFrame": 1201,
+      "asset": "screenshots/approved/login.png",
+      "overlapFrames": 18
+    },
+    {
+      "id": 4,
+      "title": "Essential tools: login and dashboard",
+      "startFrame": 1201,
+      "endFrame": 1629,
+      "asset": "screenshots/approved/dashboard.png",
+      "overlapFrames": 18
+    },
+    {
+      "id": 5,
+      "title": "Create a traffic ticket",
+      "startFrame": 1629,
+      "endFrame": 2202,
+      "asset": "screenshots/approved/violator.png",
+      "overlapFrames": 18
+    },
+    {
+      "id": 6,
+      "title": "Camera evidence and GPS",
+      "startFrame": 2202,
+      "endFrame": 2935,
+      "asset": "screenshots/approved/camera.png",
+      "overlapFrames": 18
+    },
+    {
+      "id": 7,
+      "title": "Violations and calculated fines",
+      "startFrame": 2935,
+      "endFrame": 3577,
+      "asset": "screenshots/approved/violations.png",
+      "overlapFrames": 18
+    },
+    {
+      "id": 8,
+      "title": "Electronic traffic ticket",
+      "startFrame": 3577,
+      "endFrame": 4074,
+      "asset": "screenshots/approved/ticket.png",
+      "overlapFrames": 18
+    },
+    {
+      "id": 9,
+      "title": "Offline storage and synchronization",
+      "startFrame": 4074,
+      "endFrame": 4667,
+      "asset": "vector/offline-sync",
+      "overlapFrames": 18
+    },
+    {
+      "id": 10,
+      "title": "Project credits",
+      "startFrame": 4667,
+      "endFrame": 5027,
+      "asset": "team/credits",
+      "overlapFrames": 18
+    }
+  ],
+  "phrases": [
+    {
+      "speaker": "ria",
+      "spokenPhrase": "Traffic violations happen in seconds, but documenting them, that can take much longer.",
+      "sourceStartSeconds": 0.14,
+      "sourceEndSeconds": 6.3,
+      "startSeconds": 0.14,
+      "endSeconds": 6.3,
+      "startFrame": 4,
+      "endFrame": 189,
+      "scene": 1,
+      "visualAsset": "vector/road",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "Paperwork, manual calculations, delayed records.",
+      "sourceStartSeconds": 6.9,
+      "sourceEndSeconds": 10.84,
+      "startSeconds": 6.9,
+      "endSeconds": 10.84,
+      "startFrame": 207,
+      "endFrame": 325,
+      "scene": 2,
+      "visualAsset": "vector/process",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "In a world that is becoming more digital, we ask ourselves one question.",
+      "sourceStartSeconds": 11.36,
+      "sourceEndSeconds": 16.6,
+      "startSeconds": 11.36,
+      "endSeconds": 16.6,
+      "startFrame": 341,
+      "endFrame": 498,
+      "scene": 2,
+      "visualAsset": "vector/process",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "Why not make traffic ticketing smarter?",
+      "sourceStartSeconds": 17.38,
+      "sourceEndSeconds": 19.36,
+      "startSeconds": 17.38,
+      "endSeconds": 19.36,
+      "startFrame": 521,
+      "endFrame": 581,
+      "scene": 2,
+      "visualAsset": "vector/process",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "That question inspired us.",
+      "sourceStartSeconds": 20.88,
+      "sourceEndSeconds": 23.24,
+      "startSeconds": 20.88,
+      "endSeconds": 23.24,
+      "startFrame": 626,
+      "endFrame": 697,
+      "scene": 2,
+      "visualAsset": "vector/process",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "We are MiJoRi Tech, and we're introducing our very own innovation.",
+      "sourceStartSeconds": 23.64,
+      "sourceEndSeconds": 28.2,
+      "startSeconds": 23.64,
+      "endSeconds": 28.2,
+      "startFrame": 709,
+      "endFrame": 846,
+      "scene": 3,
+      "visualAsset": "screenshots/approved/login.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "LTO Officer, a mobile-based traffic violation ticketing system designed to bring convenience,",
+      "sourceStartSeconds": 28.84,
+      "sourceEndSeconds": 35.58,
+      "startSeconds": 28.84,
+      "endSeconds": 35.58,
+      "startFrame": 865,
+      "endFrame": 1067,
+      "scene": 3,
+      "visualAsset": "screenshots/approved/login.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "accuracy, and efficiency into one application.",
+      "sourceStartSeconds": 35.9,
+      "sourceEndSeconds": 39.28,
+      "startSeconds": 35.9,
+      "endSeconds": 39.28,
+      "startFrame": 1077,
+      "endFrame": 1178,
+      "scene": 3,
+      "visualAsset": "screenshots/approved/login.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "whoosh"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "One application, essential tools, right at your fingertips.",
+      "sourceStartSeconds": 40.04,
+      "sourceEndSeconds": 44.48,
+      "startSeconds": 40.04,
+      "endSeconds": 44.48,
+      "startFrame": 1201,
+      "endFrame": 1334,
+      "scene": 4,
+      "visualAsset": "screenshots/approved/dashboard.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "With officer login and easy to navigate dashboard,",
+      "sourceStartSeconds": 45.26,
+      "sourceEndSeconds": 48.26,
+      "startSeconds": 45.26,
+      "endSeconds": 48.26,
+      "startFrame": 1358,
+      "endFrame": 1448,
+      "scene": 4,
+      "visualAsset": "screenshots/approved/dashboard.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "ria",
+      "spokenPhrase": "our application brings the ticketing process together in one place.",
+      "sourceStartSeconds": 48.76,
+      "sourceEndSeconds": 53.48,
+      "startSeconds": 48.76,
+      "endSeconds": 53.48,
+      "startFrame": 1463,
+      "endFrame": 1604,
+      "scene": 4,
+      "visualAsset": "screenshots/approved/dashboard.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "Creating a traffic ticket is more convenient with our application.",
+      "sourceStartSeconds": 0.11,
+      "sourceEndSeconds": 4.49,
+      "startSeconds": 54.41,
+      "endSeconds": 58.79,
+      "startFrame": 1632,
+      "endFrame": 1764,
+      "scene": 5,
+      "visualAsset": "screenshots/approved/violator.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "Officers can enter the violator's information, select an address and record vehicle details through guided steps.",
+      "sourceStartSeconds": 5.67,
+      "sourceEndSeconds": 12.71,
+      "startSeconds": 59.97,
+      "endSeconds": 67.01,
+      "startFrame": 1799,
+      "endFrame": 2010,
+      "scene": 5,
+      "visualAsset": "screenshots/approved/violator.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "We also included input validations to help minimize encoding errors.",
+      "sourceStartSeconds": 13.65,
+      "sourceEndSeconds": 18.41,
+      "startSeconds": 67.95,
+      "endSeconds": 72.71,
+      "startFrame": 2038,
+      "endFrame": 2181,
+      "scene": 5,
+      "visualAsset": "screenshots/approved/violator.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "To support proper documentation, we integrated a camera feature that allows officers to capture photo evidence directly within the application.",
+      "sourceStartSeconds": 19.09,
+      "sourceEndSeconds": 28.43,
+      "startSeconds": 73.39,
+      "endSeconds": 82.73,
+      "startFrame": 2202,
+      "endFrame": 2482,
+      "scene": 6,
+      "visualAsset": "screenshots/approved/camera.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "shutter"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "We also included location functionality, allowing GPS information to be attached when available.",
+      "sourceStartSeconds": 29.05,
+      "sourceEndSeconds": 35.69,
+      "startSeconds": 83.35,
+      "endSeconds": 89.99,
+      "startFrame": 2500,
+      "endFrame": 2700,
+      "scene": 6,
+      "visualAsset": "screenshots/approved/camera.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "shutter"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "Bringing innovation to traffic enforcement.",
+      "sourceStartSeconds": 36.97,
+      "sourceEndSeconds": 39.23,
+      "startSeconds": 91.27,
+      "endSeconds": 93.53,
+      "startFrame": 2738,
+      "endFrame": 2806,
+      "scene": 6,
+      "visualAsset": "screenshots/approved/camera.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "shutter"
+    },
+    {
+      "speaker": "micah",
+      "spokenPhrase": "Smarter enforcement, safer roads.",
+      "sourceStartSeconds": 40.19,
+      "sourceEndSeconds": 42.45,
+      "startSeconds": 94.49,
+      "endSeconds": 96.75,
+      "startFrame": 2835,
+      "endFrame": 2902,
+      "scene": 6,
+      "visualAsset": "screenshots/approved/camera.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "shutter"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "Violation and fines. One of the key features we develop is our violation selection system.",
+      "sourceStartSeconds": 0.59,
+      "sourceEndSeconds": 6.69,
+      "startSeconds": 98.423333,
+      "endSeconds": 104.523333,
+      "startFrame": 2953,
+      "endFrame": 3136,
+      "scene": 7,
+      "visualAsset": "screenshots/approved/violations.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "Officers can select the applicable traffic violations and our applications automatically calculates the corresponding total fines.",
+      "sourceStartSeconds": 7.55,
+      "sourceEndSeconds": 15.25,
+      "startSeconds": 105.383333,
+      "endSeconds": 113.083333,
+      "startFrame": 3162,
+      "endFrame": 3392,
+      "scene": 7,
+      "visualAsset": "screenshots/approved/violations.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "This reduces the manual compensation during the ticket preparation.",
+      "sourceStartSeconds": 16.03,
+      "sourceEndSeconds": 20.25,
+      "startSeconds": 113.863333,
+      "endSeconds": 118.083333,
+      "startFrame": 3416,
+      "endFrame": 3542,
+      "scene": 7,
+      "visualAsset": "screenshots/approved/violations.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "click"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "And second is the digital traffic ticket.",
+      "sourceStartSeconds": 21.41,
+      "sourceEndSeconds": 23.73,
+      "startSeconds": 119.243333,
+      "endSeconds": 121.563333,
+      "startFrame": 3577,
+      "endFrame": 3647,
+      "scene": 8,
+      "visualAsset": "screenshots/approved/ticket.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "notification"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "After completing the required information, our application generates a digital traffic violation ticket.",
+      "sourceStartSeconds": 24.57,
+      "sourceEndSeconds": 30.01,
+      "startSeconds": 122.403333,
+      "endSeconds": 127.843333,
+      "startFrame": 3672,
+      "endFrame": 3835,
+      "scene": 8,
+      "visualAsset": "screenshots/approved/ticket.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "notification"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "Each ticket includes a unique reference number and QR code to support organized or record management.",
+      "sourceStartSeconds": 30.75,
+      "sourceEndSeconds": 36.99,
+      "startSeconds": 128.583333,
+      "endSeconds": 134.823333,
+      "startFrame": 3857,
+      "endFrame": 4045,
+      "scene": 8,
+      "visualAsset": "screenshots/approved/ticket.png",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "notification"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "And last is the offline capability.",
+      "sourceStartSeconds": 37.97,
+      "sourceEndSeconds": 39.65,
+      "startSeconds": 135.803333,
+      "endSeconds": 137.483333,
+      "startFrame": 4074,
+      "endFrame": 4124,
+      "scene": 9,
+      "visualAsset": "vector/offline-sync",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "sync"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "We also designed our application with offline first functionality.",
+      "sourceStartSeconds": 40.43,
+      "sourceEndSeconds": 44.15,
+      "startSeconds": 138.263333,
+      "endSeconds": 141.983333,
+      "startFrame": 4148,
+      "endFrame": 4260,
+      "scene": 9,
+      "visualAsset": "vector/offline-sync",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "sync"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "Traffic ticket records can be saved locally when the internet connectivity is unavailable",
+      "sourceStartSeconds": 45.41,
+      "sourceEndSeconds": 50.47,
+      "startSeconds": 143.243333,
+      "endSeconds": 148.303333,
+      "startFrame": 4297,
+      "endFrame": 4449,
+      "scene": 9,
+      "visualAsset": "vector/offline-sync",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "sync"
+    },
+    {
+      "speaker": "joseph",
+      "spokenPhrase": "and synchronized with a server once the connection is explored.",
+      "sourceStartSeconds": 50.47,
+      "sourceEndSeconds": 54.27,
+      "startSeconds": 148.303333,
+      "endSeconds": 152.103333,
+      "startFrame": 4449,
+      "endFrame": 4563,
+      "scene": 9,
+      "visualAsset": "vector/offline-sync",
+      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "transition": "18-frame overlapping lateral reveal",
+      "soundEffect": "sync"
+    }
+  ],
+  "sfx": [
+    {
+      "time": 0.3,
+      "effect": "tick",
+      "gain": 0.02
+    },
+    {
+      "time": 1.3,
+      "effect": "tick",
+      "gain": 0.018
+    },
+    {
+      "time": 2.3,
+      "effect": "tick",
+      "gain": 0.018
+    },
+    {
+      "time": 6.7,
+      "effect": "whoosh",
+      "gain": 0.04
+    },
+    {
+      "time": 6.9,
+      "effect": "click",
+      "gain": 0.025
+    },
+    {
+      "time": 7.9,
+      "effect": "click",
+      "gain": 0.025
+    },
+    {
+      "time": 9.9,
+      "effect": "click",
+      "gain": 0.025
+    },
+    {
+      "time": 23.5,
+      "effect": "rise",
+      "gain": 0.035
+    },
+    {
+      "time": 28.84,
+      "effect": "whoosh",
+      "gain": 0.045
+    },
+    {
+      "time": 30,
+      "effect": "confirmation",
+      "gain": 0.025
+    },
+    {
+      "time": 45.26,
+      "effect": "click",
+      "gain": 0.024
+    },
+    {
+      "time": 48.76,
+      "effect": "click",
+      "gain": 0.024
+    },
+    {
+      "time": 54.3,
+      "effect": "whoosh",
+      "gain": 0.04
+    },
+    {
+      "time": 61,
+      "effect": "click",
+      "gain": 0.02
+    },
+    {
+      "time": 64,
+      "effect": "click",
+      "gain": 0.02
+    },
+    {
+      "time": 68.2,
+      "effect": "confirmation",
+      "gain": 0.025
+    },
+    {
+      "time": 79.8,
+      "effect": "shutter",
+      "gain": 0.035
+    },
+    {
+      "time": 84,
+      "effect": "notification",
+      "gain": 0.02
+    },
+    {
+      "time": 98.4,
+      "effect": "whoosh",
+      "gain": 0.035
+    },
+    {
+      "time": 105.4,
+      "effect": "click",
+      "gain": 0.02
+    },
+    {
+      "time": 113.1,
+      "effect": "confirmation",
+      "gain": 0.025
+    },
+    {
+      "time": 119.24,
+      "effect": "notification",
+      "gain": 0.028
+    },
+    {
+      "time": 130,
+      "effect": "click",
+      "gain": 0.018
+    },
+    {
+      "time": 135.8,
+      "effect": "whoosh",
+      "gain": 0.035
+    },
+    {
+      "time": 143,
+      "effect": "notification",
+      "gain": 0.016
+    },
+    {
+      "time": 149.5,
+      "effect": "sync",
+      "gain": 0.025
+    },
+    {
+      "time": 155.6,
+      "effect": "rise",
+      "gain": 0.035
+    }
+  ],
+  "purposeNarrationPresent": false,
+  "captionPolicy": "Observed spoken wording retained; known brand names normalized. ASR timestamps checked against phrase boundaries and waveform."
+}

@@ -1,0 +1,4 @@
+import {useCurrentFrame,useVideoConfig,interpolate,spring} from 'remotion';
+import {Stage,Device,Copy} from '../ProductionKit';
+import {smooth} from '../../LaunchElements';
+export const Scene07=()=>{const f=useCurrentFrame();const {fps}=useVideoConfig();const t=f/fps;const p=spring({frame:Math.max(0,f-12.5*fps),fps,config:{damping:22,stiffness:100}});return <Stage><Copy kicker="VIOLATIONS & FINES" title={'Select violations.\nCalculate the total.'} body="Automatic fine calculation reduces manual computation."><div style={{marginTop:35,opacity:interpolate(t,[7,8],[0,1],smooth)}}><div style={{fontSize:30,color:'#d4e9ff'}}>₱3,000 + ₱3,000</div><div style={{fontSize:92,fontWeight:700,color:'#FFE1A1',marginTop:12,scale:.8+p*.2,transformOrigin:'left center'}}>₱6,000</div><div style={{fontSize:18,color:'#b9d9fa',marginTop:8}}>Values shown in the supplied app captures</div></div></Copy><Device screen="violations" enter={-3}/></Stage>};

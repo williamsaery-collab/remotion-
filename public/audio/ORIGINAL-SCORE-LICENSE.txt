@@ -1,0 +1,4 @@
+MiJoRi Tech original procedural instrumental score
+CC0 1.0 Universal dedication: https://creativecommons.org/publicdomain/zero/1.0/
+Composition and synthesis authored for this project; no third-party samples, melodies, recordings or reference audio.
+Source: scripts/compose-score.py. Free to use, modify, export and share; no attribution required.

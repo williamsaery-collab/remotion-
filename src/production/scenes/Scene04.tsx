@@ -1,0 +1,4 @@
+import {useCurrentFrame,useVideoConfig} from 'remotion';
+import {Stage,Device,Copy,Badge,Screen} from '../ProductionKit';
+export const Scene04=()=>{const f=useCurrentFrame();const {fps}=useVideoConfig();const t=f/fps;let screen:Screen='login',previous:Screen|undefined;let change=0;if(t>=4.1){screen='pin';previous='login';change=4.1;}if(t>=8.65){screen='dashboard';previous='pin';change=8.65;}
+ return <Stage><Copy kicker="ONE APPLICATION. ESSENTIAL TOOLS." title={'Ready for duty.\nClear from the start.'} body="Officer access and a dashboard bring the ticketing process together."><Badge delay={2}>Email and PIN login</Badge><Badge delay={6}>Easy-to-navigate dashboard</Badge><Badge delay={9}>Start a new traffic ticket</Badge></Copy><Device screen={screen} previous={previous} changeAt={change} enter={-3}/></Stage>};

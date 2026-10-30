@@ -1,0 +1,2314 @@
+[
+  {
+    "text": " Traffic",
+    "startMs": 140,
+    "endMs": 820,
+    "timestampMs": 480,
+    "confidence": 0.8936,
+    "speaker": "ria"
+  },
+  {
+    "text": " violations",
+    "startMs": 820,
+    "endMs": 1520,
+    "timestampMs": 1170,
+    "confidence": 0.9834,
+    "speaker": "ria"
+  },
+  {
+    "text": " happen",
+    "startMs": 1520,
+    "endMs": 1940,
+    "timestampMs": 1730,
+    "confidence": 0.935,
+    "speaker": "ria"
+  },
+  {
+    "text": " in",
+    "startMs": 1940,
+    "endMs": 2340,
+    "timestampMs": 2140,
+    "confidence": 0.9968,
+    "speaker": "ria"
+  },
+  {
+    "text": " seconds,",
+    "startMs": 2340,
+    "endMs": 2860,
+    "timestampMs": 2600,
+    "confidence": 0.9942,
+    "speaker": "ria"
+  },
+  {
+    "text": " but",
+    "startMs": 3300,
+    "endMs": 3520,
+    "timestampMs": 3410,
+    "confidence": 0.9869,
+    "speaker": "ria"
+  },
+  {
+    "text": " documenting",
+    "startMs": 3520,
+    "endMs": 4040,
+    "timestampMs": 3780,
+    "confidence": 0.9945,
+    "speaker": "ria"
+  },
+  {
+    "text": " them,",
+    "startMs": 4040,
+    "endMs": 4560,
+    "timestampMs": 4300,
+    "confidence": 0.9969,
+    "speaker": "ria"
+  },
+  {
+    "text": " that",
+    "startMs": 4820,
+    "endMs": 5160,
+    "timestampMs": 4990,
+    "confidence": 0.9486,
+    "speaker": "ria"
+  },
+  {
+    "text": " can",
+    "startMs": 5160,
+    "endMs": 5380,
+    "timestampMs": 5270,
+    "confidence": 0.9955,
+    "speaker": "ria"
+  },
+  {
+    "text": " take",
+    "startMs": 5380,
+    "endMs": 5600,
+    "timestampMs": 5490,
+    "confidence": 0.9916,
+    "speaker": "ria"
+  },
+  {
+    "text": " much",
+    "startMs": 5600,
+    "endMs": 5820,
+    "timestampMs": 5710,
+    "confidence": 0.9811,
+    "speaker": "ria"
+  },
+  {
+    "text": " longer.",
+    "startMs": 5820,
+    "endMs": 6300,
+    "timestampMs": 6060,
+    "confidence": 0.9976,
+    "speaker": "ria"
+  },
+  {
+    "text": " Paperwork,",
+    "startMs": 6900,
+    "endMs": 7540,
+    "timestampMs": 7220,
+    "confidence": 0.9354,
+    "speaker": "ria"
+  },
+  {
+    "text": " manual",
+    "startMs": 7980,
+    "endMs": 8380,
+    "timestampMs": 8180,
+    "confidence": 0.9934,
+    "speaker": "ria"
+  },
+  {
+    "text": " calculations,",
+    "startMs": 8380,
+    "endMs": 9120,
+    "timestampMs": 8750,
+    "confidence": 0.9783,
+    "speaker": "ria"
+  },
+  {
+    "text": " delayed",
+    "startMs": 9760,
+    "endMs": 10180,
+    "timestampMs": 9970,
+    "confidence": 0.9695,
+    "speaker": "ria"
+  },
+  {
+    "text": " records.",
+    "startMs": 10180,
+    "endMs": 10840,
+    "timestampMs": 10510,
+    "confidence": 0.9965,
+    "speaker": "ria"
+  },
+  {
+    "text": " In",
+    "startMs": 11360,
+    "endMs": 11660,
+    "timestampMs": 11510,
+    "confidence": 0.9865,
+    "speaker": "ria"
+  },
+  {
+    "text": " a",
+    "startMs": 11660,
+    "endMs": 11800,
+    "timestampMs": 11730,
+    "confidence": 0.8623,
+    "speaker": "ria"
+  },
+  {
+    "text": " world",
+    "startMs": 11800,
+    "endMs": 12000,
+    "timestampMs": 11900,
+    "confidence": 0.9989,
+    "speaker": "ria"
+  },
+  {
+    "text": " that",
+    "startMs": 12000,
+    "endMs": 12180,
+    "timestampMs": 12090,
+    "confidence": 0.989,
+    "speaker": "ria"
+  },
+  {
+    "text": " is",
+    "startMs": 12180,
+    "endMs": 12320,
+    "timestampMs": 12250,
+    "confidence": 0.9778,
+    "speaker": "ria"
+  },
+  {
+    "text": " becoming",
+    "startMs": 12320,
+    "endMs": 12760,
+    "timestampMs": 12540,
+    "confidence": 0.9975,
+    "speaker": "ria"
+  },
+  {
+    "text": " more",
+    "startMs": 12760,
+    "endMs": 13120,
+    "timestampMs": 12940,
+    "confidence": 0.9973,
+    "speaker": "ria"
+  },
+  {
+    "text": " digital,",
+    "startMs": 13120,
+    "endMs": 13620,
+    "timestampMs": 13370,
+    "confidence": 0.9965,
+    "speaker": "ria"
+  },
+  {
+    "text": " we",
+    "startMs": 13980,
+    "endMs": 14180,
+    "timestampMs": 14080,
+    "confidence": 0.9913,
+    "speaker": "ria"
+  },
+  {
+    "text": " ask",
+    "startMs": 14180,
+    "endMs": 14640,
+    "timestampMs": 14410,
+    "confidence": 0.9923,
+    "speaker": "ria"
+  },
+  {
+    "text": " ourselves",
+    "startMs": 14640,
+    "endMs": 15260,
+    "timestampMs": 14950,
+    "confidence": 0.9967,
+    "speaker": "ria"
+  },
+  {
+    "text": " one",
+    "startMs": 15260,
+    "endMs": 16080,
+    "timestampMs": 15670,
+    "confidence": 0.8168,
+    "speaker": "ria"
+  },
+  {
+    "text": " question.",
+    "startMs": 16080,
+    "endMs": 16600,
+    "timestampMs": 16340,
+    "confidence": 0.9977,
+    "speaker": "ria"
+  },
+  {
+    "text": " Why",
+    "startMs": 17380,
+    "endMs": 17560,
+    "timestampMs": 17470,
+    "confidence": 0.8198,
+    "speaker": "ria"
+  },
+  {
+    "text": " not",
+    "startMs": 17560,
+    "endMs": 17760,
+    "timestampMs": 17660,
+    "confidence": 0.9987,
+    "speaker": "ria"
+  },
+  {
+    "text": " make",
+    "startMs": 17760,
+    "endMs": 18020,
+    "timestampMs": 17890,
+    "confidence": 0.9959,
+    "speaker": "ria"
+  },
+  {
+    "text": " traffic",
+    "startMs": 18020,
+    "endMs": 18480,
+    "timestampMs": 18250,
+    "confidence": 0.9951,
+    "speaker": "ria"
+  },
+  {
+    "text": " ticketing",
+    "startMs": 18480,
+    "endMs": 19040,
+    "timestampMs": 18760,
+    "confidence": 0.9379,
+    "speaker": "ria"
+  },
+  {
+    "text": " smarter?",
+    "startMs": 19040,
+    "endMs": 19360,
+    "timestampMs": 19200,
+    "confidence": 0.9977,
+    "speaker": "ria"
+  },
+  {
+    "text": " That",
+    "startMs": 20880,
+    "endMs": 21320,
+    "timestampMs": 21100,
+    "confidence": 0.9889,
+    "speaker": "ria"
+  },
+  {
+    "text": " question",
+    "startMs": 21320,
+    "endMs": 21900,
+    "timestampMs": 21610,
+    "confidence": 0.9951,
+    "speaker": "ria"
+  },
+  {
+    "text": " inspired",
+    "startMs": 21900,
+    "endMs": 22760,
+    "timestampMs": 22330,
+    "confidence": 0.9969,
+    "speaker": "ria"
+  },
+  {
+    "text": " us.",
+    "startMs": 22760,
+    "endMs": 23240,
+    "timestampMs": 23000,
+    "confidence": 0.9993,
+    "speaker": "ria"
+  },
+  {
+    "text": " We",
+    "startMs": 23640,
+    "endMs": 23860,
+    "timestampMs": 23750,
+    "confidence": 0.9958,
+    "speaker": "ria"
+  },
+  {
+    "text": " are",
+    "startMs": 23860,
+    "endMs": 24080,
+    "timestampMs": 23970,
+    "confidence": 0.9887,
+    "speaker": "ria"
+  },
+  {
+    "text": " MiJoRi",
+    "startMs": 24080,
+    "endMs": 24500,
+    "timestampMs": 24290,
+    "confidence": 0.2907,
+    "speaker": "ria"
+  },
+  {
+    "text": " Tech,",
+    "startMs": 24500,
+    "endMs": 24900,
+    "timestampMs": 24700,
+    "confidence": 0.6343,
+    "speaker": "ria"
+  },
+  {
+    "text": " and",
+    "startMs": 25340,
+    "endMs": 25580,
+    "timestampMs": 25460,
+    "confidence": 0.9966,
+    "speaker": "ria"
+  },
+  {
+    "text": " we're",
+    "startMs": 25580,
+    "endMs": 25880,
+    "timestampMs": 25730,
+    "confidence": 0.9445,
+    "speaker": "ria"
+  },
+  {
+    "text": " introducing",
+    "startMs": 25880,
+    "endMs": 26400,
+    "timestampMs": 26140,
+    "confidence": 0.9755,
+    "speaker": "ria"
+  },
+  {
+    "text": " our",
+    "startMs": 26400,
+    "endMs": 26900,
+    "timestampMs": 26650,
+    "confidence": 0.9977,
+    "speaker": "ria"
+  },
+  {
+    "text": " very",
+    "startMs": 26900,
+    "endMs": 27240,
+    "timestampMs": 27070,
+    "confidence": 0.9893,
+    "speaker": "ria"
+  },
+  {
+    "text": " own",
+    "startMs": 27240,
+    "endMs": 27560,
+    "timestampMs": 27400,
+    "confidence": 0.9971,
+    "speaker": "ria"
+  },
+  {
+    "text": " innovation.",
+    "startMs": 27560,
+    "endMs": 28200,
+    "timestampMs": 27880,
+    "confidence": 0.9958,
+    "speaker": "ria"
+  },
+  {
+    "text": " LTO",
+    "startMs": 28840,
+    "endMs": 29540,
+    "timestampMs": 29190,
+    "confidence": 0.7185,
+    "speaker": "ria"
+  },
+  {
+    "text": " Officer,",
+    "startMs": 29540,
+    "endMs": 30020,
+    "timestampMs": 29780,
+    "confidence": 0.4271,
+    "speaker": "ria"
+  },
+  {
+    "text": " a",
+    "startMs": 30980,
+    "endMs": 31000,
+    "timestampMs": 30990,
+    "confidence": 0.9406,
+    "speaker": "ria"
+  },
+  {
+    "text": " mobile",
+    "startMs": 31000,
+    "endMs": 31300,
+    "timestampMs": 31150,
+    "confidence": 0.9845,
+    "speaker": "ria"
+  },
+  {
+    "text": "-based",
+    "startMs": 31300,
+    "endMs": 31620,
+    "timestampMs": 31460,
+    "confidence": 0.7698,
+    "speaker": "ria"
+  },
+  {
+    "text": " traffic",
+    "startMs": 31620,
+    "endMs": 32020,
+    "timestampMs": 31820,
+    "confidence": 0.9998,
+    "speaker": "ria"
+  },
+  {
+    "text": " violation",
+    "startMs": 32020,
+    "endMs": 32620,
+    "timestampMs": 32320,
+    "confidence": 0.9746,
+    "speaker": "ria"
+  },
+  {
+    "text": " ticketing",
+    "startMs": 32620,
+    "endMs": 33220,
+    "timestampMs": 32920,
+    "confidence": 0.9901,
+    "speaker": "ria"
+  },
+  {
+    "text": " system",
+    "startMs": 33220,
+    "endMs": 33620,
+    "timestampMs": 33420,
+    "confidence": 0.9967,
+    "speaker": "ria"
+  },
+  {
+    "text": " designed",
+    "startMs": 33620,
+    "endMs": 34420,
+    "timestampMs": 34020,
+    "confidence": 0.8626,
+    "speaker": "ria"
+  },
+  {
+    "text": " to",
+    "startMs": 34420,
+    "endMs": 34720,
+    "timestampMs": 34570,
+    "confidence": 0.9987,
+    "speaker": "ria"
+  },
+  {
+    "text": " bring",
+    "startMs": 34720,
+    "endMs": 34960,
+    "timestampMs": 34840,
+    "confidence": 0.9987,
+    "speaker": "ria"
+  },
+  {
+    "text": " convenience,",
+    "startMs": 34960,
+    "endMs": 35580,
+    "timestampMs": 35270,
+    "confidence": 0.995,
+    "speaker": "ria"
+  },
+  {
+    "text": " accuracy,",
+    "startMs": 35900,
+    "endMs": 36420,
+    "timestampMs": 36160,
+    "confidence": 0.9945,
+    "speaker": "ria"
+  },
+  {
+    "text": " and",
+    "startMs": 36960,
+    "endMs": 37040,
+    "timestampMs": 37000,
+    "confidence": 0.9968,
+    "speaker": "ria"
+  },
+  {
+    "text": " efficiency",
+    "startMs": 37040,
+    "endMs": 37580,
+    "timestampMs": 37310,
+    "confidence": 0.9953,
+    "speaker": "ria"
+  },
+  {
+    "text": " into",
+    "startMs": 37580,
+    "endMs": 38160,
+    "timestampMs": 37870,
+    "confidence": 0.9839,
+    "speaker": "ria"
+  },
+  {
+    "text": " one",
+    "startMs": 38160,
+    "endMs": 38520,
+    "timestampMs": 38340,
+    "confidence": 0.9866,
+    "speaker": "ria"
+  },
+  {
+    "text": " application.",
+    "startMs": 38520,
+    "endMs": 39280,
+    "timestampMs": 38900,
+    "confidence": 0.9971,
+    "speaker": "ria"
+  },
+  {
+    "text": " One",
+    "startMs": 40040,
+    "endMs": 40460,
+    "timestampMs": 40250,
+    "confidence": 0.9773,
+    "speaker": "ria"
+  },
+  {
+    "text": " application,",
+    "startMs": 40460,
+    "endMs": 41060,
+    "timestampMs": 40760,
+    "confidence": 0.9826,
+    "speaker": "ria"
+  },
+  {
+    "text": " essential",
+    "startMs": 41700,
+    "endMs": 42060,
+    "timestampMs": 41880,
+    "confidence": 0.9614,
+    "speaker": "ria"
+  },
+  {
+    "text": " tools,",
+    "startMs": 42060,
+    "endMs": 42700,
+    "timestampMs": 42380,
+    "confidence": 0.9935,
+    "speaker": "ria"
+  },
+  {
+    "text": " right",
+    "startMs": 42980,
+    "endMs": 43400,
+    "timestampMs": 43190,
+    "confidence": 0.9853,
+    "speaker": "ria"
+  },
+  {
+    "text": " at",
+    "startMs": 43400,
+    "endMs": 43700,
+    "timestampMs": 43550,
+    "confidence": 0.9979,
+    "speaker": "ria"
+  },
+  {
+    "text": " your",
+    "startMs": 43700,
+    "endMs": 43940,
+    "timestampMs": 43820,
+    "confidence": 0.9965,
+    "speaker": "ria"
+  },
+  {
+    "text": " fingertips.",
+    "startMs": 43940,
+    "endMs": 44480,
+    "timestampMs": 44210,
+    "confidence": 0.9792,
+    "speaker": "ria"
+  },
+  {
+    "text": " With",
+    "startMs": 45260,
+    "endMs": 45500,
+    "timestampMs": 45380,
+    "confidence": 0.9847,
+    "speaker": "ria"
+  },
+  {
+    "text": " officer",
+    "startMs": 45500,
+    "endMs": 46000,
+    "timestampMs": 45750,
+    "confidence": 0.4273,
+    "speaker": "ria"
+  },
+  {
+    "text": " login",
+    "startMs": 46000,
+    "endMs": 46340,
+    "timestampMs": 46170,
+    "confidence": 0.6499,
+    "speaker": "ria"
+  },
+  {
+    "text": " and",
+    "startMs": 46340,
+    "endMs": 46780,
+    "timestampMs": 46560,
+    "confidence": 0.8854,
+    "speaker": "ria"
+  },
+  {
+    "text": " easy",
+    "startMs": 46780,
+    "endMs": 47040,
+    "timestampMs": 46910,
+    "confidence": 0.9168,
+    "speaker": "ria"
+  },
+  {
+    "text": " to",
+    "startMs": 47040,
+    "endMs": 47260,
+    "timestampMs": 47150,
+    "confidence": 0.6743,
+    "speaker": "ria"
+  },
+  {
+    "text": " navigate",
+    "startMs": 47260,
+    "endMs": 47700,
+    "timestampMs": 47480,
+    "confidence": 0.9989,
+    "speaker": "ria"
+  },
+  {
+    "text": " dashboard,",
+    "startMs": 47700,
+    "endMs": 48260,
+    "timestampMs": 47980,
+    "confidence": 0.9467,
+    "speaker": "ria"
+  },
+  {
+    "text": " our",
+    "startMs": 48760,
+    "endMs": 48940,
+    "timestampMs": 48850,
+    "confidence": 0.9885,
+    "speaker": "ria"
+  },
+  {
+    "text": " application",
+    "startMs": 48940,
+    "endMs": 49540,
+    "timestampMs": 49240,
+    "confidence": 0.9961,
+    "speaker": "ria"
+  },
+  {
+    "text": " brings",
+    "startMs": 49540,
+    "endMs": 50360,
+    "timestampMs": 49950,
+    "confidence": 0.9911,
+    "speaker": "ria"
+  },
+  {
+    "text": " the",
+    "startMs": 50360,
+    "endMs": 50600,
+    "timestampMs": 50480,
+    "confidence": 0.9868,
+    "speaker": "ria"
+  },
+  {
+    "text": " ticketing",
+    "startMs": 50600,
+    "endMs": 51160,
+    "timestampMs": 50880,
+    "confidence": 0.9286,
+    "speaker": "ria"
+  },
+  {
+    "text": " process",
+    "startMs": 51160,
+    "endMs": 51560,
+    "timestampMs": 51360,
+    "confidence": 0.9857,
+    "speaker": "ria"
+  },
+  {
+    "text": " together",
+    "startMs": 51560,
+    "endMs": 52340,
+    "timestampMs": 51950,
+    "confidence": 0.9896,
+    "speaker": "ria"
+  },
+  {
+    "text": " in",
+    "startMs": 52340,
+    "endMs": 52780,
+    "timestampMs": 52560,
+    "confidence": 0.992,
+    "speaker": "ria"
+  },
+  {
+    "text": " one",
+    "startMs": 52780,
+    "endMs": 53120,
+    "timestampMs": 52950,
+    "confidence": 0.9963,
+    "speaker": "ria"
+  },
+  {
+    "text": " place.",
+    "startMs": 53120,
+    "endMs": 53480,
+    "timestampMs": 53300,
+    "confidence": 0.9994,
+    "speaker": "ria"
+  },
+  {
+    "text": " Creating",
+    "startMs": 54410,
+    "endMs": 55110,
+    "timestampMs": 54760,
+    "confidence": 0.8482,
+    "speaker": "micah"
+  },
+  {
+    "text": " a",
+    "startMs": 55110,
+    "endMs": 55570,
+    "timestampMs": 55340,
+    "confidence": 0.9816,
+    "speaker": "micah"
+  },
+  {
+    "text": " traffic",
+    "startMs": 55570,
+    "endMs": 55870,
+    "timestampMs": 55720,
+    "confidence": 0.9383,
+    "speaker": "micah"
+  },
+  {
+    "text": " ticket",
+    "startMs": 55870,
+    "endMs": 56310,
+    "timestampMs": 56090,
+    "confidence": 0.9937,
+    "speaker": "micah"
+  },
+  {
+    "text": " is",
+    "startMs": 56310,
+    "endMs": 56670,
+    "timestampMs": 56490,
+    "confidence": 0.9922,
+    "speaker": "micah"
+  },
+  {
+    "text": " more",
+    "startMs": 56670,
+    "endMs": 56910,
+    "timestampMs": 56790,
+    "confidence": 0.9953,
+    "speaker": "micah"
+  },
+  {
+    "text": " convenient",
+    "startMs": 56910,
+    "endMs": 57390,
+    "timestampMs": 57150,
+    "confidence": 0.9979,
+    "speaker": "micah"
+  },
+  {
+    "text": " with",
+    "startMs": 57390,
+    "endMs": 57750,
+    "timestampMs": 57570,
+    "confidence": 0.9915,
+    "speaker": "micah"
+  },
+  {
+    "text": " our",
+    "startMs": 57750,
+    "endMs": 58070,
+    "timestampMs": 57910,
+    "confidence": 0.9957,
+    "speaker": "micah"
+  },
+  {
+    "text": " application.",
+    "startMs": 58070,
+    "endMs": 58790,
+    "timestampMs": 58430,
+    "confidence": 0.9812,
+    "speaker": "micah"
+  },
+  {
+    "text": " Officers",
+    "startMs": 59970,
+    "endMs": 59970,
+    "timestampMs": 59970,
+    "confidence": 0.9742,
+    "speaker": "micah"
+  },
+  {
+    "text": " can",
+    "startMs": 59970,
+    "endMs": 60390,
+    "timestampMs": 60180,
+    "confidence": 0.9982,
+    "speaker": "micah"
+  },
+  {
+    "text": " enter",
+    "startMs": 60390,
+    "endMs": 60730,
+    "timestampMs": 60560,
+    "confidence": 0.9953,
+    "speaker": "micah"
+  },
+  {
+    "text": " the",
+    "startMs": 60730,
+    "endMs": 60950,
+    "timestampMs": 60840,
+    "confidence": 0.9521,
+    "speaker": "micah"
+  },
+  {
+    "text": " violator's",
+    "startMs": 60950,
+    "endMs": 61530,
+    "timestampMs": 61240,
+    "confidence": 0.8118,
+    "speaker": "micah"
+  },
+  {
+    "text": " information,",
+    "startMs": 61530,
+    "endMs": 62070,
+    "timestampMs": 61800,
+    "confidence": 0.9975,
+    "speaker": "micah"
+  },
+  {
+    "text": " select",
+    "startMs": 62670,
+    "endMs": 63090,
+    "timestampMs": 62880,
+    "confidence": 0.9793,
+    "speaker": "micah"
+  },
+  {
+    "text": " an",
+    "startMs": 63090,
+    "endMs": 63390,
+    "timestampMs": 63240,
+    "confidence": 0.9763,
+    "speaker": "micah"
+  },
+  {
+    "text": " address",
+    "startMs": 63390,
+    "endMs": 63770,
+    "timestampMs": 63580,
+    "confidence": 0.9948,
+    "speaker": "micah"
+  },
+  {
+    "text": " and",
+    "startMs": 63770,
+    "endMs": 64210,
+    "timestampMs": 63990,
+    "confidence": 0.6896,
+    "speaker": "micah"
+  },
+  {
+    "text": " record",
+    "startMs": 64210,
+    "endMs": 64530,
+    "timestampMs": 64370,
+    "confidence": 0.9996,
+    "speaker": "micah"
+  },
+  {
+    "text": " vehicle",
+    "startMs": 64530,
+    "endMs": 65050,
+    "timestampMs": 64790,
+    "confidence": 0.9734,
+    "speaker": "micah"
+  },
+  {
+    "text": " details",
+    "startMs": 65050,
+    "endMs": 65570,
+    "timestampMs": 65310,
+    "confidence": 0.9812,
+    "speaker": "micah"
+  },
+  {
+    "text": " through",
+    "startMs": 65570,
+    "endMs": 66150,
+    "timestampMs": 65860,
+    "confidence": 0.99,
+    "speaker": "micah"
+  },
+  {
+    "text": " guided",
+    "startMs": 66150,
+    "endMs": 66450,
+    "timestampMs": 66300,
+    "confidence": 0.9355,
+    "speaker": "micah"
+  },
+  {
+    "text": " steps.",
+    "startMs": 66450,
+    "endMs": 67010,
+    "timestampMs": 66730,
+    "confidence": 0.9976,
+    "speaker": "micah"
+  },
+  {
+    "text": " We",
+    "startMs": 67950,
+    "endMs": 68230,
+    "timestampMs": 68090,
+    "confidence": 0.9959,
+    "speaker": "micah"
+  },
+  {
+    "text": " also",
+    "startMs": 68230,
+    "endMs": 68570,
+    "timestampMs": 68400,
+    "confidence": 0.9937,
+    "speaker": "micah"
+  },
+  {
+    "text": " included",
+    "startMs": 68570,
+    "endMs": 69110,
+    "timestampMs": 68840,
+    "confidence": 0.9879,
+    "speaker": "micah"
+  },
+  {
+    "text": " input",
+    "startMs": 69110,
+    "endMs": 69570,
+    "timestampMs": 69340,
+    "confidence": 0.9805,
+    "speaker": "micah"
+  },
+  {
+    "text": " validations",
+    "startMs": 69570,
+    "endMs": 70410,
+    "timestampMs": 69990,
+    "confidence": 0.9129,
+    "speaker": "micah"
+  },
+  {
+    "text": " to",
+    "startMs": 70410,
+    "endMs": 70850,
+    "timestampMs": 70630,
+    "confidence": 0.9518,
+    "speaker": "micah"
+  },
+  {
+    "text": " help",
+    "startMs": 70850,
+    "endMs": 71110,
+    "timestampMs": 70980,
+    "confidence": 0.9987,
+    "speaker": "micah"
+  },
+  {
+    "text": " minimize",
+    "startMs": 71110,
+    "endMs": 71610,
+    "timestampMs": 71360,
+    "confidence": 0.9121,
+    "speaker": "micah"
+  },
+  {
+    "text": " encoding",
+    "startMs": 71610,
+    "endMs": 72130,
+    "timestampMs": 71870,
+    "confidence": 0.9953,
+    "speaker": "micah"
+  },
+  {
+    "text": " errors.",
+    "startMs": 72130,
+    "endMs": 72710,
+    "timestampMs": 72420,
+    "confidence": 0.9989,
+    "speaker": "micah"
+  },
+  {
+    "text": " To",
+    "startMs": 73390,
+    "endMs": 73610,
+    "timestampMs": 73500,
+    "confidence": 0.9948,
+    "speaker": "micah"
+  },
+  {
+    "text": " support",
+    "startMs": 73610,
+    "endMs": 73990,
+    "timestampMs": 73800,
+    "confidence": 0.9979,
+    "speaker": "micah"
+  },
+  {
+    "text": " proper",
+    "startMs": 73990,
+    "endMs": 74410,
+    "timestampMs": 74200,
+    "confidence": 0.9964,
+    "speaker": "micah"
+  },
+  {
+    "text": " documentation,",
+    "startMs": 74410,
+    "endMs": 75110,
+    "timestampMs": 74760,
+    "confidence": 0.999,
+    "speaker": "micah"
+  },
+  {
+    "text": " we",
+    "startMs": 75810,
+    "endMs": 75890,
+    "timestampMs": 75850,
+    "confidence": 0.9914,
+    "speaker": "micah"
+  },
+  {
+    "text": " integrated",
+    "startMs": 75890,
+    "endMs": 76410,
+    "timestampMs": 76150,
+    "confidence": 0.9945,
+    "speaker": "micah"
+  },
+  {
+    "text": " a",
+    "startMs": 76410,
+    "endMs": 76850,
+    "timestampMs": 76630,
+    "confidence": 0.4613,
+    "speaker": "micah"
+  },
+  {
+    "text": " camera",
+    "startMs": 76850,
+    "endMs": 77230,
+    "timestampMs": 77040,
+    "confidence": 0.6776,
+    "speaker": "micah"
+  },
+  {
+    "text": " feature",
+    "startMs": 77230,
+    "endMs": 77630,
+    "timestampMs": 77430,
+    "confidence": 0.7162,
+    "speaker": "micah"
+  },
+  {
+    "text": " that",
+    "startMs": 77630,
+    "endMs": 78270,
+    "timestampMs": 77950,
+    "confidence": 0.9579,
+    "speaker": "micah"
+  },
+  {
+    "text": " allows",
+    "startMs": 78270,
+    "endMs": 78650,
+    "timestampMs": 78460,
+    "confidence": 0.9783,
+    "speaker": "micah"
+  },
+  {
+    "text": " officers",
+    "startMs": 78650,
+    "endMs": 79190,
+    "timestampMs": 78920,
+    "confidence": 0.9803,
+    "speaker": "micah"
+  },
+  {
+    "text": " to",
+    "startMs": 79190,
+    "endMs": 79490,
+    "timestampMs": 79340,
+    "confidence": 0.9968,
+    "speaker": "micah"
+  },
+  {
+    "text": " capture",
+    "startMs": 79490,
+    "endMs": 79810,
+    "timestampMs": 79650,
+    "confidence": 0.9956,
+    "speaker": "micah"
+  },
+  {
+    "text": " photo",
+    "startMs": 79810,
+    "endMs": 80130,
+    "timestampMs": 79970,
+    "confidence": 0.985,
+    "speaker": "micah"
+  },
+  {
+    "text": " evidence",
+    "startMs": 80130,
+    "endMs": 80770,
+    "timestampMs": 80450,
+    "confidence": 0.9731,
+    "speaker": "micah"
+  },
+  {
+    "text": " directly",
+    "startMs": 80770,
+    "endMs": 81290,
+    "timestampMs": 81030,
+    "confidence": 0.9945,
+    "speaker": "micah"
+  },
+  {
+    "text": " within",
+    "startMs": 81290,
+    "endMs": 81930,
+    "timestampMs": 81610,
+    "confidence": 0.9917,
+    "speaker": "micah"
+  },
+  {
+    "text": " the",
+    "startMs": 81930,
+    "endMs": 82150,
+    "timestampMs": 82040,
+    "confidence": 0.9939,
+    "speaker": "micah"
+  },
+  {
+    "text": " application.",
+    "startMs": 82150,
+    "endMs": 82730,
+    "timestampMs": 82440,
+    "confidence": 0.994,
+    "speaker": "micah"
+  },
+  {
+    "text": " We",
+    "startMs": 83350,
+    "endMs": 83850,
+    "timestampMs": 83600,
+    "confidence": 0.8001,
+    "speaker": "micah"
+  },
+  {
+    "text": " also",
+    "startMs": 83850,
+    "endMs": 84210,
+    "timestampMs": 84030,
+    "confidence": 0.9879,
+    "speaker": "micah"
+  },
+  {
+    "text": " included",
+    "startMs": 84210,
+    "endMs": 84690,
+    "timestampMs": 84450,
+    "confidence": 0.9686,
+    "speaker": "micah"
+  },
+  {
+    "text": " location",
+    "startMs": 84690,
+    "endMs": 85210,
+    "timestampMs": 84950,
+    "confidence": 0.7452,
+    "speaker": "micah"
+  },
+  {
+    "text": " functionality,",
+    "startMs": 85210,
+    "endMs": 86030,
+    "timestampMs": 85620,
+    "confidence": 0.9876,
+    "speaker": "micah"
+  },
+  {
+    "text": " allowing",
+    "startMs": 86610,
+    "endMs": 87150,
+    "timestampMs": 86880,
+    "confidence": 0.9793,
+    "speaker": "micah"
+  },
+  {
+    "text": " GPS",
+    "startMs": 87150,
+    "endMs": 87510,
+    "timestampMs": 87330,
+    "confidence": 0.9933,
+    "speaker": "micah"
+  },
+  {
+    "text": " information",
+    "startMs": 87510,
+    "endMs": 87990,
+    "timestampMs": 87750,
+    "confidence": 0.9906,
+    "speaker": "micah"
+  },
+  {
+    "text": " to",
+    "startMs": 87990,
+    "endMs": 88490,
+    "timestampMs": 88240,
+    "confidence": 0.996,
+    "speaker": "micah"
+  },
+  {
+    "text": " be",
+    "startMs": 88490,
+    "endMs": 88630,
+    "timestampMs": 88560,
+    "confidence": 0.9976,
+    "speaker": "micah"
+  },
+  {
+    "text": " attached",
+    "startMs": 88630,
+    "endMs": 88970,
+    "timestampMs": 88800,
+    "confidence": 0.9941,
+    "speaker": "micah"
+  },
+  {
+    "text": " when",
+    "startMs": 88970,
+    "endMs": 89430,
+    "timestampMs": 89200,
+    "confidence": 0.9778,
+    "speaker": "micah"
+  },
+  {
+    "text": " available.",
+    "startMs": 89430,
+    "endMs": 89990,
+    "timestampMs": 89710,
+    "confidence": 0.9965,
+    "speaker": "micah"
+  },
+  {
+    "text": " Bringing",
+    "startMs": 91270,
+    "endMs": 91490,
+    "timestampMs": 91380,
+    "confidence": 0.8617,
+    "speaker": "micah"
+  },
+  {
+    "text": " innovation",
+    "startMs": 91490,
+    "endMs": 92090,
+    "timestampMs": 91790,
+    "confidence": 0.9311,
+    "speaker": "micah"
+  },
+  {
+    "text": " to",
+    "startMs": 92090,
+    "endMs": 92490,
+    "timestampMs": 92290,
+    "confidence": 0.9884,
+    "speaker": "micah"
+  },
+  {
+    "text": " traffic",
+    "startMs": 92490,
+    "endMs": 92830,
+    "timestampMs": 92660,
+    "confidence": 0.9067,
+    "speaker": "micah"
+  },
+  {
+    "text": " enforcement.",
+    "startMs": 92830,
+    "endMs": 93530,
+    "timestampMs": 93180,
+    "confidence": 0.995,
+    "speaker": "micah"
+  },
+  {
+    "text": " Smarter",
+    "startMs": 94490,
+    "endMs": 94710,
+    "timestampMs": 94600,
+    "confidence": 0.9597,
+    "speaker": "micah"
+  },
+  {
+    "text": " enforcement,",
+    "startMs": 94710,
+    "endMs": 95350,
+    "timestampMs": 95030,
+    "confidence": 0.9591,
+    "speaker": "micah"
+  },
+  {
+    "text": " safer",
+    "startMs": 95990,
+    "endMs": 96170,
+    "timestampMs": 96080,
+    "confidence": 0.8382,
+    "speaker": "micah"
+  },
+  {
+    "text": " roads.",
+    "startMs": 96170,
+    "endMs": 96750,
+    "timestampMs": 96460,
+    "confidence": 0.9982,
+    "speaker": "micah"
+  },
+  {
+    "text": " Violation",
+    "startMs": 98423,
+    "endMs": 99363,
+    "timestampMs": 98893,
+    "confidence": 0.6003,
+    "speaker": "joseph"
+  },
+  {
+    "text": " and",
+    "startMs": 99363,
+    "endMs": 99543,
+    "timestampMs": 99453,
+    "confidence": 0.9293,
+    "speaker": "joseph"
+  },
+  {
+    "text": " fines.",
+    "startMs": 99543,
+    "endMs": 99803,
+    "timestampMs": 99673,
+    "confidence": 0.873,
+    "speaker": "joseph"
+  },
+  {
+    "text": " One",
+    "startMs": 100423,
+    "endMs": 100583,
+    "timestampMs": 100503,
+    "confidence": 0.9869,
+    "speaker": "joseph"
+  },
+  {
+    "text": " of",
+    "startMs": 100583,
+    "endMs": 100763,
+    "timestampMs": 100673,
+    "confidence": 0.9967,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 100763,
+    "endMs": 100923,
+    "timestampMs": 100843,
+    "confidence": 0.9945,
+    "speaker": "joseph"
+  },
+  {
+    "text": " key",
+    "startMs": 100923,
+    "endMs": 101183,
+    "timestampMs": 101053,
+    "confidence": 0.9986,
+    "speaker": "joseph"
+  },
+  {
+    "text": " features",
+    "startMs": 101183,
+    "endMs": 101623,
+    "timestampMs": 101403,
+    "confidence": 0.9886,
+    "speaker": "joseph"
+  },
+  {
+    "text": " we",
+    "startMs": 101623,
+    "endMs": 102003,
+    "timestampMs": 101813,
+    "confidence": 0.9753,
+    "speaker": "joseph"
+  },
+  {
+    "text": " develop",
+    "startMs": 102003,
+    "endMs": 102363,
+    "timestampMs": 102183,
+    "confidence": 0.5413,
+    "speaker": "joseph"
+  },
+  {
+    "text": " is",
+    "startMs": 102363,
+    "endMs": 102703,
+    "timestampMs": 102533,
+    "confidence": 0.9566,
+    "speaker": "joseph"
+  },
+  {
+    "text": " our",
+    "startMs": 102703,
+    "endMs": 102983,
+    "timestampMs": 102843,
+    "confidence": 0.9847,
+    "speaker": "joseph"
+  },
+  {
+    "text": " violation",
+    "startMs": 102983,
+    "endMs": 103323,
+    "timestampMs": 103153,
+    "confidence": 0.7483,
+    "speaker": "joseph"
+  },
+  {
+    "text": " selection",
+    "startMs": 103323,
+    "endMs": 103843,
+    "timestampMs": 103583,
+    "confidence": 0.9909,
+    "speaker": "joseph"
+  },
+  {
+    "text": " system.",
+    "startMs": 103843,
+    "endMs": 104523,
+    "timestampMs": 104183,
+    "confidence": 0.9905,
+    "speaker": "joseph"
+  },
+  {
+    "text": " Officers",
+    "startMs": 105383,
+    "endMs": 105523,
+    "timestampMs": 105453,
+    "confidence": 0.9847,
+    "speaker": "joseph"
+  },
+  {
+    "text": " can",
+    "startMs": 105523,
+    "endMs": 105923,
+    "timestampMs": 105723,
+    "confidence": 0.995,
+    "speaker": "joseph"
+  },
+  {
+    "text": " select",
+    "startMs": 105923,
+    "endMs": 106303,
+    "timestampMs": 106113,
+    "confidence": 0.9979,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 106303,
+    "endMs": 106483,
+    "timestampMs": 106393,
+    "confidence": 0.7787,
+    "speaker": "joseph"
+  },
+  {
+    "text": " applicable",
+    "startMs": 106483,
+    "endMs": 106983,
+    "timestampMs": 106733,
+    "confidence": 0.9889,
+    "speaker": "joseph"
+  },
+  {
+    "text": " traffic",
+    "startMs": 106983,
+    "endMs": 107463,
+    "timestampMs": 107223,
+    "confidence": 0.9976,
+    "speaker": "joseph"
+  },
+  {
+    "text": " violations",
+    "startMs": 107463,
+    "endMs": 108223,
+    "timestampMs": 107843,
+    "confidence": 0.9729,
+    "speaker": "joseph"
+  },
+  {
+    "text": " and",
+    "startMs": 108223,
+    "endMs": 108683,
+    "timestampMs": 108453,
+    "confidence": 0.8159,
+    "speaker": "joseph"
+  },
+  {
+    "text": " our",
+    "startMs": 108683,
+    "endMs": 108903,
+    "timestampMs": 108793,
+    "confidence": 0.9851,
+    "speaker": "joseph"
+  },
+  {
+    "text": " applications",
+    "startMs": 108903,
+    "endMs": 109503,
+    "timestampMs": 109203,
+    "confidence": 0.8629,
+    "speaker": "joseph"
+  },
+  {
+    "text": " automatically",
+    "startMs": 109503,
+    "endMs": 110223,
+    "timestampMs": 109863,
+    "confidence": 0.9974,
+    "speaker": "joseph"
+  },
+  {
+    "text": " calculates",
+    "startMs": 110223,
+    "endMs": 111283,
+    "timestampMs": 110753,
+    "confidence": 0.5494,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 111283,
+    "endMs": 111663,
+    "timestampMs": 111473,
+    "confidence": 0.9934,
+    "speaker": "joseph"
+  },
+  {
+    "text": " corresponding",
+    "startMs": 111663,
+    "endMs": 112223,
+    "timestampMs": 111943,
+    "confidence": 0.9958,
+    "speaker": "joseph"
+  },
+  {
+    "text": " total",
+    "startMs": 112223,
+    "endMs": 112683,
+    "timestampMs": 112453,
+    "confidence": 0.9738,
+    "speaker": "joseph"
+  },
+  {
+    "text": " fines.",
+    "startMs": 112683,
+    "endMs": 113083,
+    "timestampMs": 112883,
+    "confidence": 0.9997,
+    "speaker": "joseph"
+  },
+  {
+    "text": " This",
+    "startMs": 113863,
+    "endMs": 114063,
+    "timestampMs": 113963,
+    "confidence": 0.9328,
+    "speaker": "joseph"
+  },
+  {
+    "text": " reduces",
+    "startMs": 114063,
+    "endMs": 114443,
+    "timestampMs": 114253,
+    "confidence": 0.8456,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 114443,
+    "endMs": 114743,
+    "timestampMs": 114593,
+    "confidence": 0.9739,
+    "speaker": "joseph"
+  },
+  {
+    "text": " manual",
+    "startMs": 114743,
+    "endMs": 115143,
+    "timestampMs": 114943,
+    "confidence": 0.994,
+    "speaker": "joseph"
+  },
+  {
+    "text": " compensation",
+    "startMs": 115143,
+    "endMs": 115703,
+    "timestampMs": 115423,
+    "confidence": 0.9966,
+    "speaker": "joseph"
+  },
+  {
+    "text": " during",
+    "startMs": 115703,
+    "endMs": 116383,
+    "timestampMs": 116043,
+    "confidence": 0.9931,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 116383,
+    "endMs": 116823,
+    "timestampMs": 116603,
+    "confidence": 0.9538,
+    "speaker": "joseph"
+  },
+  {
+    "text": " ticket",
+    "startMs": 116823,
+    "endMs": 117283,
+    "timestampMs": 117053,
+    "confidence": 0.9984,
+    "speaker": "joseph"
+  },
+  {
+    "text": " preparation.",
+    "startMs": 117283,
+    "endMs": 118083,
+    "timestampMs": 117683,
+    "confidence": 0.9969,
+    "speaker": "joseph"
+  },
+  {
+    "text": " And",
+    "startMs": 119243,
+    "endMs": 119263,
+    "timestampMs": 119253,
+    "confidence": 0.8788,
+    "speaker": "joseph"
+  },
+  {
+    "text": " second",
+    "startMs": 119263,
+    "endMs": 119483,
+    "timestampMs": 119373,
+    "confidence": 0.7863,
+    "speaker": "joseph"
+  },
+  {
+    "text": " is",
+    "startMs": 119483,
+    "endMs": 119783,
+    "timestampMs": 119633,
+    "confidence": 0.9424,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 119783,
+    "endMs": 120143,
+    "timestampMs": 119963,
+    "confidence": 0.8573,
+    "speaker": "joseph"
+  },
+  {
+    "text": " digital",
+    "startMs": 120143,
+    "endMs": 120703,
+    "timestampMs": 120423,
+    "confidence": 0.9254,
+    "speaker": "joseph"
+  },
+  {
+    "text": " traffic",
+    "startMs": 120703,
+    "endMs": 121163,
+    "timestampMs": 120933,
+    "confidence": 0.9966,
+    "speaker": "joseph"
+  },
+  {
+    "text": " ticket.",
+    "startMs": 121163,
+    "endMs": 121563,
+    "timestampMs": 121363,
+    "confidence": 0.9726,
+    "speaker": "joseph"
+  },
+  {
+    "text": " After",
+    "startMs": 122403,
+    "endMs": 122783,
+    "timestampMs": 122593,
+    "confidence": 0.812,
+    "speaker": "joseph"
+  },
+  {
+    "text": " completing",
+    "startMs": 122783,
+    "endMs": 123343,
+    "timestampMs": 123063,
+    "confidence": 0.9933,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 123343,
+    "endMs": 123543,
+    "timestampMs": 123443,
+    "confidence": 0.9799,
+    "speaker": "joseph"
+  },
+  {
+    "text": " required",
+    "startMs": 123543,
+    "endMs": 123883,
+    "timestampMs": 123713,
+    "confidence": 0.998,
+    "speaker": "joseph"
+  },
+  {
+    "text": " information,",
+    "startMs": 123883,
+    "endMs": 124523,
+    "timestampMs": 124203,
+    "confidence": 0.9942,
+    "speaker": "joseph"
+  },
+  {
+    "text": " our",
+    "startMs": 124903,
+    "endMs": 125003,
+    "timestampMs": 124953,
+    "confidence": 0.9832,
+    "speaker": "joseph"
+  },
+  {
+    "text": " application",
+    "startMs": 125003,
+    "endMs": 125383,
+    "timestampMs": 125193,
+    "confidence": 0.9743,
+    "speaker": "joseph"
+  },
+  {
+    "text": " generates",
+    "startMs": 125383,
+    "endMs": 125903,
+    "timestampMs": 125643,
+    "confidence": 0.9915,
+    "speaker": "joseph"
+  },
+  {
+    "text": " a",
+    "startMs": 125903,
+    "endMs": 126623,
+    "timestampMs": 126263,
+    "confidence": 0.9853,
+    "speaker": "joseph"
+  },
+  {
+    "text": " digital",
+    "startMs": 126623,
+    "endMs": 126623,
+    "timestampMs": 126623,
+    "confidence": 0.7932,
+    "speaker": "joseph"
+  },
+  {
+    "text": " traffic",
+    "startMs": 126623,
+    "endMs": 127003,
+    "timestampMs": 126813,
+    "confidence": 0.8946,
+    "speaker": "joseph"
+  },
+  {
+    "text": " violation",
+    "startMs": 127003,
+    "endMs": 127483,
+    "timestampMs": 127243,
+    "confidence": 0.9719,
+    "speaker": "joseph"
+  },
+  {
+    "text": " ticket.",
+    "startMs": 127483,
+    "endMs": 127843,
+    "timestampMs": 127663,
+    "confidence": 0.9865,
+    "speaker": "joseph"
+  },
+  {
+    "text": " Each",
+    "startMs": 128583,
+    "endMs": 128883,
+    "timestampMs": 128733,
+    "confidence": 0.9875,
+    "speaker": "joseph"
+  },
+  {
+    "text": " ticket",
+    "startMs": 128883,
+    "endMs": 129263,
+    "timestampMs": 129073,
+    "confidence": 0.9948,
+    "speaker": "joseph"
+  },
+  {
+    "text": " includes",
+    "startMs": 129263,
+    "endMs": 129843,
+    "timestampMs": 129553,
+    "confidence": 0.9566,
+    "speaker": "joseph"
+  },
+  {
+    "text": " a",
+    "startMs": 129843,
+    "endMs": 130103,
+    "timestampMs": 129973,
+    "confidence": 0.977,
+    "speaker": "joseph"
+  },
+  {
+    "text": " unique",
+    "startMs": 130103,
+    "endMs": 130443,
+    "timestampMs": 130273,
+    "confidence": 0.9943,
+    "speaker": "joseph"
+  },
+  {
+    "text": " reference",
+    "startMs": 130443,
+    "endMs": 131163,
+    "timestampMs": 130803,
+    "confidence": 0.9676,
+    "speaker": "joseph"
+  },
+  {
+    "text": " number",
+    "startMs": 131163,
+    "endMs": 131603,
+    "timestampMs": 131383,
+    "confidence": 0.9897,
+    "speaker": "joseph"
+  },
+  {
+    "text": " and",
+    "startMs": 131603,
+    "endMs": 131943,
+    "timestampMs": 131773,
+    "confidence": 0.9786,
+    "speaker": "joseph"
+  },
+  {
+    "text": " QR",
+    "startMs": 131943,
+    "endMs": 132243,
+    "timestampMs": 132093,
+    "confidence": 0.9985,
+    "speaker": "joseph"
+  },
+  {
+    "text": " code",
+    "startMs": 132243,
+    "endMs": 132543,
+    "timestampMs": 132393,
+    "confidence": 0.9319,
+    "speaker": "joseph"
+  },
+  {
+    "text": " to",
+    "startMs": 132543,
+    "endMs": 132783,
+    "timestampMs": 132663,
+    "confidence": 0.9844,
+    "speaker": "joseph"
+  },
+  {
+    "text": " support",
+    "startMs": 132783,
+    "endMs": 133123,
+    "timestampMs": 132953,
+    "confidence": 0.9956,
+    "speaker": "joseph"
+  },
+  {
+    "text": " organized",
+    "startMs": 133123,
+    "endMs": 133623,
+    "timestampMs": 133373,
+    "confidence": 0.4634,
+    "speaker": "joseph"
+  },
+  {
+    "text": " or",
+    "startMs": 133623,
+    "endMs": 133923,
+    "timestampMs": 133773,
+    "confidence": 0.5888,
+    "speaker": "joseph"
+  },
+  {
+    "text": " record",
+    "startMs": 133923,
+    "endMs": 134243,
+    "timestampMs": 134083,
+    "confidence": 0.9694,
+    "speaker": "joseph"
+  },
+  {
+    "text": " management.",
+    "startMs": 134243,
+    "endMs": 134823,
+    "timestampMs": 134533,
+    "confidence": 0.9978,
+    "speaker": "joseph"
+  },
+  {
+    "text": " And",
+    "startMs": 135803,
+    "endMs": 136003,
+    "timestampMs": 135903,
+    "confidence": 0.723,
+    "speaker": "joseph"
+  },
+  {
+    "text": " last",
+    "startMs": 136003,
+    "endMs": 136223,
+    "timestampMs": 136113,
+    "confidence": 0.9286,
+    "speaker": "joseph"
+  },
+  {
+    "text": " is",
+    "startMs": 136223,
+    "endMs": 136423,
+    "timestampMs": 136323,
+    "confidence": 0.961,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 136423,
+    "endMs": 136643,
+    "timestampMs": 136533,
+    "confidence": 0.9884,
+    "speaker": "joseph"
+  },
+  {
+    "text": " offline",
+    "startMs": 136643,
+    "endMs": 136963,
+    "timestampMs": 136803,
+    "confidence": 0.9516,
+    "speaker": "joseph"
+  },
+  {
+    "text": " capability.",
+    "startMs": 136963,
+    "endMs": 137483,
+    "timestampMs": 137223,
+    "confidence": 0.9826,
+    "speaker": "joseph"
+  },
+  {
+    "text": " We",
+    "startMs": 138263,
+    "endMs": 138543,
+    "timestampMs": 138403,
+    "confidence": 0.9932,
+    "speaker": "joseph"
+  },
+  {
+    "text": " also",
+    "startMs": 138543,
+    "endMs": 138843,
+    "timestampMs": 138693,
+    "confidence": 0.9957,
+    "speaker": "joseph"
+  },
+  {
+    "text": " designed",
+    "startMs": 138843,
+    "endMs": 139243,
+    "timestampMs": 139043,
+    "confidence": 0.799,
+    "speaker": "joseph"
+  },
+  {
+    "text": " our",
+    "startMs": 139243,
+    "endMs": 139483,
+    "timestampMs": 139363,
+    "confidence": 0.9844,
+    "speaker": "joseph"
+  },
+  {
+    "text": " application",
+    "startMs": 139483,
+    "endMs": 139943,
+    "timestampMs": 139713,
+    "confidence": 0.9463,
+    "speaker": "joseph"
+  },
+  {
+    "text": " with",
+    "startMs": 139943,
+    "endMs": 140423,
+    "timestampMs": 140183,
+    "confidence": 0.9965,
+    "speaker": "joseph"
+  },
+  {
+    "text": " offline",
+    "startMs": 140423,
+    "endMs": 140843,
+    "timestampMs": 140633,
+    "confidence": 0.902,
+    "speaker": "joseph"
+  },
+  {
+    "text": " first",
+    "startMs": 140843,
+    "endMs": 141223,
+    "timestampMs": 141033,
+    "confidence": 0.6612,
+    "speaker": "joseph"
+  },
+  {
+    "text": " functionality.",
+    "startMs": 141223,
+    "endMs": 141983,
+    "timestampMs": 141603,
+    "confidence": 0.974,
+    "speaker": "joseph"
+  },
+  {
+    "text": " Traffic",
+    "startMs": 143243,
+    "endMs": 143403,
+    "timestampMs": 143323,
+    "confidence": 0.9928,
+    "speaker": "joseph"
+  },
+  {
+    "text": " ticket",
+    "startMs": 143403,
+    "endMs": 143843,
+    "timestampMs": 143623,
+    "confidence": 0.9801,
+    "speaker": "joseph"
+  },
+  {
+    "text": " records",
+    "startMs": 143843,
+    "endMs": 144303,
+    "timestampMs": 144073,
+    "confidence": 0.9947,
+    "speaker": "joseph"
+  },
+  {
+    "text": " can",
+    "startMs": 144303,
+    "endMs": 144603,
+    "timestampMs": 144453,
+    "confidence": 0.9974,
+    "speaker": "joseph"
+  },
+  {
+    "text": " be",
+    "startMs": 144603,
+    "endMs": 144783,
+    "timestampMs": 144693,
+    "confidence": 0.9949,
+    "speaker": "joseph"
+  },
+  {
+    "text": " saved",
+    "startMs": 144783,
+    "endMs": 145043,
+    "timestampMs": 144913,
+    "confidence": 0.9832,
+    "speaker": "joseph"
+  },
+  {
+    "text": " locally",
+    "startMs": 145043,
+    "endMs": 145563,
+    "timestampMs": 145303,
+    "confidence": 0.9339,
+    "speaker": "joseph"
+  },
+  {
+    "text": " when",
+    "startMs": 145563,
+    "endMs": 146103,
+    "timestampMs": 145833,
+    "confidence": 0.9277,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 146103,
+    "endMs": 146263,
+    "timestampMs": 146183,
+    "confidence": 0.9766,
+    "speaker": "joseph"
+  },
+  {
+    "text": " internet",
+    "startMs": 146263,
+    "endMs": 146663,
+    "timestampMs": 146463,
+    "confidence": 0.6627,
+    "speaker": "joseph"
+  },
+  {
+    "text": " connectivity",
+    "startMs": 146663,
+    "endMs": 147183,
+    "timestampMs": 146923,
+    "confidence": 0.9936,
+    "speaker": "joseph"
+  },
+  {
+    "text": " is",
+    "startMs": 147183,
+    "endMs": 147723,
+    "timestampMs": 147453,
+    "confidence": 0.9948,
+    "speaker": "joseph"
+  },
+  {
+    "text": " unavailable",
+    "startMs": 147723,
+    "endMs": 148303,
+    "timestampMs": 148013,
+    "confidence": 0.9935,
+    "speaker": "joseph"
+  },
+  {
+    "text": " and",
+    "startMs": 148303,
+    "endMs": 149183,
+    "timestampMs": 148743,
+    "confidence": 0.5217,
+    "speaker": "joseph"
+  },
+  {
+    "text": " synchronized",
+    "startMs": 149183,
+    "endMs": 149683,
+    "timestampMs": 149433,
+    "confidence": 0.3275,
+    "speaker": "joseph"
+  },
+  {
+    "text": " with",
+    "startMs": 149683,
+    "endMs": 150023,
+    "timestampMs": 149853,
+    "confidence": 0.9892,
+    "speaker": "joseph"
+  },
+  {
+    "text": " a",
+    "startMs": 150023,
+    "endMs": 150163,
+    "timestampMs": 150093,
+    "confidence": 0.7346,
+    "speaker": "joseph"
+  },
+  {
+    "text": " server",
+    "startMs": 150163,
+    "endMs": 150443,
+    "timestampMs": 150303,
+    "confidence": 0.9688,
+    "speaker": "joseph"
+  },
+  {
+    "text": " once",
+    "startMs": 150443,
+    "endMs": 150803,
+    "timestampMs": 150623,
+    "confidence": 0.8023,
+    "speaker": "joseph"
+  },
+  {
+    "text": " the",
+    "startMs": 150803,
+    "endMs": 151023,
+    "timestampMs": 150913,
+    "confidence": 0.8681,
+    "speaker": "joseph"
+  },
+  {
+    "text": " connection",
+    "startMs": 151023,
+    "endMs": 151403,
+    "timestampMs": 151213,
+    "confidence": 0.9846,
+    "speaker": "joseph"
+  },
+  {
+    "text": " is",
+    "startMs": 151403,
+    "endMs": 151703,
+    "timestampMs": 151553,
+    "confidence": 0.9896,
+    "speaker": "joseph"
+  },
+  {
+    "text": " explored.",
+    "startMs": 151703,
+    "endMs": 152103,
+    "timestampMs": 151903,
+    "confidence": 0.915,
+    "speaker": "joseph"
+  }
+]

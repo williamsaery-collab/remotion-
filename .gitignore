@@ -3,3 +3,6 @@ build/
 out/
 .env*
 *.log
+
+__pycache__/
+*.pyc

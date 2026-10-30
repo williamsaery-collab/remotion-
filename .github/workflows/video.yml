@@ -8,14 +8,14 @@ on:
       composition:
         description: Video to export
         type: choice
-        default: Preview20
-        options: [Preview20, Opening15, LTOOfficer]
+        default: FinalFilm
+        options: [FinalFilm, Preview20, Opening15, LTOOfficer]
 permissions:
   contents: read
 jobs:
   video:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -26,11 +26,16 @@ jobs:
       - run: npm test
       - run: npm run build
       - run: npx remotion browser ensure
-      - run: npm run verify:frames
+      - run: npm run verify:final
       - if: github.event_name == 'workflow_dispatch'
         env:
           COMPOSITION: ${{ inputs.composition }}
         run: npx remotion render src/index.ts "$COMPOSITION" "out/$COMPOSITION.mp4" --concurrency=2
+      - if: github.event_name == 'workflow_dispatch' && inputs.composition == 'FinalFilm'
+        run: |
+          if ! command -v ffmpeg >/dev/null; then sudo apt-get update && sudo apt-get install -y ffmpeg; fi
+          python -m pip install numpy
+          python scripts/verify-export.py out/FinalFilm.mp4
       - uses: actions/upload-artifact@v4
         with:
           name: mijori-video

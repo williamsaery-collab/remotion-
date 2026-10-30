@@ -1,0 +1,111 @@
+1
+00:00:00,140 --> 00:00:06,300
+Traffic violations happen in seconds, but documenting them, that can take much longer.
+
+2
+00:00:06,900 --> 00:00:10,840
+Paperwork, manual calculations, delayed records.
+
+3
+00:00:11,360 --> 00:00:16,600
+In a world that is becoming more digital, we ask ourselves one question.
+
+4
+00:00:17,380 --> 00:00:19,360
+Why not make traffic ticketing smarter?
+
+5
+00:00:20,880 --> 00:00:23,240
+That question inspired us.
+
+6
+00:00:23,640 --> 00:00:28,200
+We are MiJoRi Tech, and we're introducing our very own innovation.
+
+7
+00:00:28,840 --> 00:00:35,580
+LTO Officer, a mobile-based traffic violation ticketing system designed to bring convenience,
+
+8
+00:00:35,900 --> 00:00:39,280
+accuracy, and efficiency into one application.
+
+9
+00:00:40,040 --> 00:00:44,480
+One application, essential tools, right at your fingertips.
+
+10
+00:00:45,260 --> 00:00:48,260
+With officer login and easy to navigate dashboard,
+
+11
+00:00:48,760 --> 00:00:53,480
+our application brings the ticketing process together in one place.
+
+12
+00:00:54,410 --> 00:00:58,790
+Creating a traffic ticket is more convenient with our application.
+
+13
+00:00:59,970 --> 00:01:07,010
+Officers can enter the violator's information, select an address and record vehicle details through guided steps.
+
+14
+00:01:07,950 --> 00:01:12,710
+We also included input validations to help minimize encoding errors.
+
+15
+00:01:13,390 --> 00:01:22,730
+To support proper documentation, we integrated a camera feature that allows officers to capture photo evidence directly within the application.
+
+16
+00:01:23,350 --> 00:01:29,990
+We also included location functionality, allowing GPS information to be attached when available.
+
+17
+00:01:31,270 --> 00:01:33,530
+Bringing innovation to traffic enforcement.
+
+18
+00:01:34,490 --> 00:01:36,750
+Smarter enforcement, safer roads.
+
+19
+00:01:38,423 --> 00:01:44,523
+Violation and fines. One of the key features we develop is our violation selection system.
+
+20
+00:01:45,383 --> 00:01:53,083
+Officers can select the applicable traffic violations and our applications automatically calculates the corresponding total fines.
+
+21
+00:01:53,863 --> 00:01:58,083
+This reduces the manual compensation during the ticket preparation.
+
+22
+00:01:59,243 --> 00:02:01,563
+And second is the digital traffic ticket.
+
+23
+00:02:02,403 --> 00:02:07,843
+After completing the required information, our application generates a digital traffic violation ticket.
+
+24
+00:02:08,583 --> 00:02:14,823
+Each ticket includes a unique reference number and QR code to support organized or record management.
+
+25
+00:02:15,803 --> 00:02:17,483
+And last is the offline capability.
+
+26
+00:02:18,263 --> 00:02:21,983
+We also designed our application with offline first functionality.
+
+27
+00:02:23,243 --> 00:02:28,303
+Traffic ticket records can be saved locally when the internet connectivity is unavailable
+
+28
+00:02:28,303 --> 00:02:32,103
+and synchronized with a server once the connection is explored.

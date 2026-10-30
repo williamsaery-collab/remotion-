@@ -1,0 +1,98 @@
+[
+  {
+    "asset": "public/screenshots/approved/violator.png",
+    "source": "IMG_20261030_121016_736.jpg",
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "6d3fabfd594ae935c029c0050923238a09a6b894451dc78e53ead1c4a6fefa3a"
+  },
+  {
+    "asset": "public/screenshots/approved/violations.png",
+    "source": "IMG_20261030_121016_089.jpg",
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "f5c6324b77b94659dc4c46c3914b31f32ac4d3dab8dae66af7fe2e0794aedeb2"
+  },
+  {
+    "asset": "public/screenshots/approved/ticket.png",
+    "source": "IMG_20261030_121016_056.jpg",
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=392:y=244:w=141:h=145:color=0x0B1B2E:t=fill",
+      "drawbox=x=330:y=450:w=210:h=151:color=white:t=fill"
+    ],
+    "sha256": "86e2b8434a3050059e00aac30aca1ede22e3efb704ca58d5dd76131bb90699c0"
+  },
+  {
+    "asset": "public/screenshots/approved/review.png",
+    "source": "IMG_20261030_121015_973.jpg",
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=32:y=281:w=510:h=246:color=0x0B1B2E:t=fill",
+      "drawbox=x=350:y=630:w=180:h=185:color=white:t=fill"
+    ],
+    "sha256": "115da921a150427883bde7d70a651836d8f6ab3acd15b6fa474151703be58e19"
+  },
+  {
+    "asset": "public/screenshots/approved/camera.png",
+    "source": "IMG_20261030_121016_502.jpg",
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=0:y=204:w=576:h=594:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "6e8021d573dafffa7d93999a4a49ab9a88403457c7ce2aba3172d202085a60f5"
+  },
+  {
+    "asset": "public/screenshots/approved/pin.png",
+    "source": "IMG_20261030_121016_629.jpg",
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=120:y=391:w=338:h=40:color=0x0B1B2E:t=fill",
+      "drawbox=x=150:y=1135:w=285:h=45:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "dc406da4e793fa65a7bafb366cb23669f9146f202a3f6504b3084f36da05e301"
+  },
+  {
+    "asset": "public/footage/address.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "sourceStartSeconds": 53,
+    "durationSeconds": 4,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=33:y=205:w=510:h=370:color=white:t=fill"
+    ],
+    "sha256": "ca9ec0e09b34ffcac935ee955f3c970f2992c2e49c54405f9446ac35b8697cbd"
+  },
+  {
+    "asset": "public/footage/vehicle.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "sourceStartSeconds": 79,
+    "durationSeconds": 3,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=45:y=300:w=476:h=49:color=white:t=fill",
+      "drawbox=x=0:y=830:w=576:h=65:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "8d64cd5ba3fc6c25704368d104b233b938f7b91d071551d11bffb516769d8b34"
+  },
+  {
+    "asset": "public/screenshots/approved/vehicle.png",
+    "source": "VID_20261030_121029_167.mp4",
+    "sourceStartSeconds": 70,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "0cae71735809a90e6f27208381ad155de3934a5aa3faec2fa9ea321d40248dfc"
+  }
+]

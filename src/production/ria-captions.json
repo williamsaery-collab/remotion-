@@ -1,0 +1,681 @@
+[
+  {
+    "text": " Traffic",
+    "startMs": 140,
+    "endMs": 820,
+    "timestampMs": 480,
+    "confidence": 0.8936
+  },
+  {
+    "text": " violations",
+    "startMs": 820,
+    "endMs": 1520,
+    "timestampMs": 1170,
+    "confidence": 0.9834
+  },
+  {
+    "text": " happen",
+    "startMs": 1520,
+    "endMs": 1940,
+    "timestampMs": 1730,
+    "confidence": 0.935
+  },
+  {
+    "text": " in",
+    "startMs": 1940,
+    "endMs": 2340,
+    "timestampMs": 2140,
+    "confidence": 0.9968
+  },
+  {
+    "text": " seconds,",
+    "startMs": 2340,
+    "endMs": 2860,
+    "timestampMs": 2600,
+    "confidence": 0.9942
+  },
+  {
+    "text": " but",
+    "startMs": 3300,
+    "endMs": 3520,
+    "timestampMs": 3410,
+    "confidence": 0.9869
+  },
+  {
+    "text": " documenting",
+    "startMs": 3520,
+    "endMs": 4040,
+    "timestampMs": 3780,
+    "confidence": 0.9945
+  },
+  {
+    "text": " them,",
+    "startMs": 4040,
+    "endMs": 4560,
+    "timestampMs": 4300,
+    "confidence": 0.9969
+  },
+  {
+    "text": " that",
+    "startMs": 4820,
+    "endMs": 5160,
+    "timestampMs": 4990,
+    "confidence": 0.9486
+  },
+  {
+    "text": " can",
+    "startMs": 5160,
+    "endMs": 5380,
+    "timestampMs": 5270,
+    "confidence": 0.9955
+  },
+  {
+    "text": " take",
+    "startMs": 5380,
+    "endMs": 5600,
+    "timestampMs": 5490,
+    "confidence": 0.9916
+  },
+  {
+    "text": " much",
+    "startMs": 5600,
+    "endMs": 5820,
+    "timestampMs": 5710,
+    "confidence": 0.9811
+  },
+  {
+    "text": " longer.",
+    "startMs": 5820,
+    "endMs": 6300,
+    "timestampMs": 6060,
+    "confidence": 0.9976
+  },
+  {
+    "text": " Paperwork,",
+    "startMs": 6900,
+    "endMs": 7540,
+    "timestampMs": 7220,
+    "confidence": 0.9354
+  },
+  {
+    "text": " manual",
+    "startMs": 7980,
+    "endMs": 8380,
+    "timestampMs": 8180,
+    "confidence": 0.9934
+  },
+  {
+    "text": " calculations,",
+    "startMs": 8380,
+    "endMs": 9120,
+    "timestampMs": 8750,
+    "confidence": 0.9783
+  },
+  {
+    "text": " delayed",
+    "startMs": 9760,
+    "endMs": 10180,
+    "timestampMs": 9970,
+    "confidence": 0.9695
+  },
+  {
+    "text": " records.",
+    "startMs": 10180,
+    "endMs": 10840,
+    "timestampMs": 10510,
+    "confidence": 0.9965
+  },
+  {
+    "text": " In",
+    "startMs": 11360,
+    "endMs": 11660,
+    "timestampMs": 11510,
+    "confidence": 0.9865
+  },
+  {
+    "text": " a",
+    "startMs": 11660,
+    "endMs": 11800,
+    "timestampMs": 11730,
+    "confidence": 0.8623
+  },
+  {
+    "text": " world",
+    "startMs": 11800,
+    "endMs": 12000,
+    "timestampMs": 11900,
+    "confidence": 0.9989
+  },
+  {
+    "text": " that",
+    "startMs": 12000,
+    "endMs": 12180,
+    "timestampMs": 12090,
+    "confidence": 0.989
+  },
+  {
+    "text": " is",
+    "startMs": 12180,
+    "endMs": 12320,
+    "timestampMs": 12250,
+    "confidence": 0.9778
+  },
+  {
+    "text": " becoming",
+    "startMs": 12320,
+    "endMs": 12760,
+    "timestampMs": 12540,
+    "confidence": 0.9975
+  },
+  {
+    "text": " more",
+    "startMs": 12760,
+    "endMs": 13120,
+    "timestampMs": 12940,
+    "confidence": 0.9973
+  },
+  {
+    "text": " digital,",
+    "startMs": 13120,
+    "endMs": 13620,
+    "timestampMs": 13370,
+    "confidence": 0.9965
+  },
+  {
+    "text": " we",
+    "startMs": 13980,
+    "endMs": 14180,
+    "timestampMs": 14080,
+    "confidence": 0.9913
+  },
+  {
+    "text": " ask",
+    "startMs": 14180,
+    "endMs": 14640,
+    "timestampMs": 14410,
+    "confidence": 0.9923
+  },
+  {
+    "text": " ourselves",
+    "startMs": 14640,
+    "endMs": 15260,
+    "timestampMs": 14950,
+    "confidence": 0.9967
+  },
+  {
+    "text": " one",
+    "startMs": 15260,
+    "endMs": 16080,
+    "timestampMs": 15670,
+    "confidence": 0.8168
+  },
+  {
+    "text": " question.",
+    "startMs": 16080,
+    "endMs": 16600,
+    "timestampMs": 16340,
+    "confidence": 0.9977
+  },
+  {
+    "text": " Why",
+    "startMs": 17380,
+    "endMs": 17560,
+    "timestampMs": 17470,
+    "confidence": 0.8198
+  },
+  {
+    "text": " not",
+    "startMs": 17560,
+    "endMs": 17760,
+    "timestampMs": 17660,
+    "confidence": 0.9987
+  },
+  {
+    "text": " make",
+    "startMs": 17760,
+    "endMs": 18020,
+    "timestampMs": 17890,
+    "confidence": 0.9959
+  },
+  {
+    "text": " traffic",
+    "startMs": 18020,
+    "endMs": 18480,
+    "timestampMs": 18250,
+    "confidence": 0.9951
+  },
+  {
+    "text": " ticketing",
+    "startMs": 18480,
+    "endMs": 19040,
+    "timestampMs": 18760,
+    "confidence": 0.9379
+  },
+  {
+    "text": " smarter?",
+    "startMs": 19040,
+    "endMs": 19360,
+    "timestampMs": 19200,
+    "confidence": 0.9977
+  },
+  {
+    "text": " That",
+    "startMs": 20880,
+    "endMs": 21320,
+    "timestampMs": 21100,
+    "confidence": 0.9889
+  },
+  {
+    "text": " question",
+    "startMs": 21320,
+    "endMs": 21900,
+    "timestampMs": 21610,
+    "confidence": 0.9951
+  },
+  {
+    "text": " inspired",
+    "startMs": 21900,
+    "endMs": 22760,
+    "timestampMs": 22330,
+    "confidence": 0.9969
+  },
+  {
+    "text": " us.",
+    "startMs": 22760,
+    "endMs": 23240,
+    "timestampMs": 23000,
+    "confidence": 0.9993
+  },
+  {
+    "text": " We",
+    "startMs": 23640,
+    "endMs": 23860,
+    "timestampMs": 23750,
+    "confidence": 0.9958
+  },
+  {
+    "text": " are",
+    "startMs": 23860,
+    "endMs": 24080,
+    "timestampMs": 23970,
+    "confidence": 0.9887
+  },
+  {
+    "text": " MiJoRi",
+    "startMs": 24080,
+    "endMs": 24500,
+    "timestampMs": 24290,
+    "confidence": 0.2907
+  },
+  {
+    "text": " Tech,",
+    "startMs": 24500,
+    "endMs": 24900,
+    "timestampMs": 24700,
+    "confidence": 0.6343
+  },
+  {
+    "text": " and",
+    "startMs": 25340,
+    "endMs": 25580,
+    "timestampMs": 25460,
+    "confidence": 0.9966
+  },
+  {
+    "text": " we're",
+    "startMs": 25580,
+    "endMs": 25880,
+    "timestampMs": 25730,
+    "confidence": 0.9445
+  },
+  {
+    "text": " introducing",
+    "startMs": 25880,
+    "endMs": 26400,
+    "timestampMs": 26140,
+    "confidence": 0.9755
+  },
+  {
+    "text": " our",
+    "startMs": 26400,
+    "endMs": 26900,
+    "timestampMs": 26650,
+    "confidence": 0.9977
+  },
+  {
+    "text": " very",
+    "startMs": 26900,
+    "endMs": 27240,
+    "timestampMs": 27070,
+    "confidence": 0.9893
+  },
+  {
+    "text": " own",
+    "startMs": 27240,
+    "endMs": 27560,
+    "timestampMs": 27400,
+    "confidence": 0.9971
+  },
+  {
+    "text": " innovation.",
+    "startMs": 27560,
+    "endMs": 28200,
+    "timestampMs": 27880,
+    "confidence": 0.9958
+  },
+  {
+    "text": " LTO",
+    "startMs": 28840,
+    "endMs": 29540,
+    "timestampMs": 29190,
+    "confidence": 0.7185
+  },
+  {
+    "text": " Officer,",
+    "startMs": 29540,
+    "endMs": 30020,
+    "timestampMs": 29780,
+    "confidence": 0.4271
+  },
+  {
+    "text": " a",
+    "startMs": 30980,
+    "endMs": 31000,
+    "timestampMs": 30990,
+    "confidence": 0.9406
+  },
+  {
+    "text": " mobile",
+    "startMs": 31000,
+    "endMs": 31300,
+    "timestampMs": 31150,
+    "confidence": 0.9845
+  },
+  {
+    "text": "-based",
+    "startMs": 31300,
+    "endMs": 31620,
+    "timestampMs": 31460,
+    "confidence": 0.7698
+  },
+  {
+    "text": " traffic",
+    "startMs": 31620,
+    "endMs": 32020,
+    "timestampMs": 31820,
+    "confidence": 0.9998
+  },
+  {
+    "text": " violation",
+    "startMs": 32020,
+    "endMs": 32620,
+    "timestampMs": 32320,
+    "confidence": 0.9746
+  },
+  {
+    "text": " ticketing",
+    "startMs": 32620,
+    "endMs": 33220,
+    "timestampMs": 32920,
+    "confidence": 0.9901
+  },
+  {
+    "text": " system",
+    "startMs": 33220,
+    "endMs": 33620,
+    "timestampMs": 33420,
+    "confidence": 0.9967
+  },
+  {
+    "text": " designed",
+    "startMs": 33620,
+    "endMs": 34420,
+    "timestampMs": 34020,
+    "confidence": 0.8626
+  },
+  {
+    "text": " to",
+    "startMs": 34420,
+    "endMs": 34720,
+    "timestampMs": 34570,
+    "confidence": 0.9987
+  },
+  {
+    "text": " bring",
+    "startMs": 34720,
+    "endMs": 34960,
+    "timestampMs": 34840,
+    "confidence": 0.9987
+  },
+  {
+    "text": " convenience,",
+    "startMs": 34960,
+    "endMs": 35580,
+    "timestampMs": 35270,
+    "confidence": 0.995
+  },
+  {
+    "text": " accuracy,",
+    "startMs": 35900,
+    "endMs": 36420,
+    "timestampMs": 36160,
+    "confidence": 0.9945
+  },
+  {
+    "text": " and",
+    "startMs": 36960,
+    "endMs": 37040,
+    "timestampMs": 37000,
+    "confidence": 0.9968
+  },
+  {
+    "text": " efficiency",
+    "startMs": 37040,
+    "endMs": 37580,
+    "timestampMs": 37310,
+    "confidence": 0.9953
+  },
+  {
+    "text": " into",
+    "startMs": 37580,
+    "endMs": 38160,
+    "timestampMs": 37870,
+    "confidence": 0.9839
+  },
+  {
+    "text": " one",
+    "startMs": 38160,
+    "endMs": 38520,
+    "timestampMs": 38340,
+    "confidence": 0.9866
+  },
+  {
+    "text": " application.",
+    "startMs": 38520,
+    "endMs": 39280,
+    "timestampMs": 38900,
+    "confidence": 0.9971
+  },
+  {
+    "text": " One",
+    "startMs": 40040,
+    "endMs": 40460,
+    "timestampMs": 40250,
+    "confidence": 0.9773
+  },
+  {
+    "text": " application,",
+    "startMs": 40460,
+    "endMs": 41060,
+    "timestampMs": 40760,
+    "confidence": 0.9826
+  },
+  {
+    "text": " essential",
+    "startMs": 41700,
+    "endMs": 42060,
+    "timestampMs": 41880,
+    "confidence": 0.9614
+  },
+  {
+    "text": " tools,",
+    "startMs": 42060,
+    "endMs": 42700,
+    "timestampMs": 42380,
+    "confidence": 0.9935
+  },
+  {
+    "text": " right",
+    "startMs": 42980,
+    "endMs": 43400,
+    "timestampMs": 43190,
+    "confidence": 0.9853
+  },
+  {
+    "text": " at",
+    "startMs": 43400,
+    "endMs": 43700,
+    "timestampMs": 43550,
+    "confidence": 0.9979
+  },
+  {
+    "text": " your",
+    "startMs": 43700,
+    "endMs": 43940,
+    "timestampMs": 43820,
+    "confidence": 0.9965
+  },
+  {
+    "text": " fingertips.",
+    "startMs": 43940,
+    "endMs": 44480,
+    "timestampMs": 44210,
+    "confidence": 0.9792
+  },
+  {
+    "text": " With",
+    "startMs": 45260,
+    "endMs": 45500,
+    "timestampMs": 45380,
+    "confidence": 0.9847
+  },
+  {
+    "text": " officer",
+    "startMs": 45500,
+    "endMs": 46000,
+    "timestampMs": 45750,
+    "confidence": 0.4273
+  },
+  {
+    "text": " login",
+    "startMs": 46000,
+    "endMs": 46340,
+    "timestampMs": 46170,
+    "confidence": 0.6499
+  },
+  {
+    "text": " and",
+    "startMs": 46340,
+    "endMs": 46780,
+    "timestampMs": 46560,
+    "confidence": 0.8854
+  },
+  {
+    "text": " easy",
+    "startMs": 46780,
+    "endMs": 47040,
+    "timestampMs": 46910,
+    "confidence": 0.9168
+  },
+  {
+    "text": " to",
+    "startMs": 47040,
+    "endMs": 47260,
+    "timestampMs": 47150,
+    "confidence": 0.6743
+  },
+  {
+    "text": " navigate",
+    "startMs": 47260,
+    "endMs": 47700,
+    "timestampMs": 47480,
+    "confidence": 0.9989
+  },
+  {
+    "text": " dashboard,",
+    "startMs": 47700,
+    "endMs": 48260,
+    "timestampMs": 47980,
+    "confidence": 0.9467
+  },
+  {
+    "text": " our",
+    "startMs": 48760,
+    "endMs": 48940,
+    "timestampMs": 48850,
+    "confidence": 0.9885
+  },
+  {
+    "text": " application",
+    "startMs": 48940,
+    "endMs": 49540,
+    "timestampMs": 49240,
+    "confidence": 0.9961
+  },
+  {
+    "text": " brings",
+    "startMs": 49540,
+    "endMs": 50360,
+    "timestampMs": 49950,
+    "confidence": 0.9911
+  },
+  {
+    "text": " the",
+    "startMs": 50360,
+    "endMs": 50600,
+    "timestampMs": 50480,
+    "confidence": 0.9868
+  },
+  {
+    "text": " ticketing",
+    "startMs": 50600,
+    "endMs": 51160,
+    "timestampMs": 50880,
+    "confidence": 0.9286
+  },
+  {
+    "text": " process",
+    "startMs": 51160,
+    "endMs": 51560,
+    "timestampMs": 51360,
+    "confidence": 0.9857
+  },
+  {
+    "text": " together",
+    "startMs": 51560,
+    "endMs": 52340,
+    "timestampMs": 51950,
+    "confidence": 0.9896
+  },
+  {
+    "text": " in",
+    "startMs": 52340,
+    "endMs": 52780,
+    "timestampMs": 52560,
+    "confidence": 0.992
+  },
+  {
+    "text": " one",
+    "startMs": 52780,
+    "endMs": 53120,
+    "timestampMs": 52950,
+    "confidence": 0.9963
+  },
+  {
+    "text": " place.",
+    "startMs": 53120,
+    "endMs": 53480,
+    "timestampMs": 53300,
+    "confidence": 0.9994
+  }
+]

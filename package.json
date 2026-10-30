@@ -8,11 +8,12 @@
     "typecheck": "tsc --noEmit",
     "build": "npm run typecheck && remotion bundle src/index.ts",
     "render:opening": "remotion render src/index.ts Opening15 out/opening.mp4",
-    "render": "remotion render src/index.ts LTOOfficer out/lto-officer.mp4",
+    "render": "remotion render src/index.ts FinalFilm out/mijori-lto-officer-final.mp4",
     "test": "node --test tests/*.test.mjs",
     "verify:frames": "node scripts/verify-render.mjs",
     "verify:studio": "node scripts/verify-studio.mjs",
-    "render:preview": "remotion render src/index.ts Preview20 out/mijori-preview-20s.mp4"
+    "render:preview": "remotion render src/index.ts Preview20 out/mijori-preview-20s.mp4",
+    "verify:final": "node scripts/verify-final.mjs"
   },
   "dependencies": {
     "@remotion/captions": "4.0.539",
