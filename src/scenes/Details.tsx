@@ -1,0 +1,2 @@
+import {Feature} from '../Feature';
+export const Details=()=> <Feature number="05" chapter="VIOLATOR & VEHICLE" kicker="THE DETAILS MATTER" title={'The right details.\nIn one record.'} body="Capture violator and vehicle information as part of the same ticketing process." steps={['Record violator details','Add vehicle information','Review before proceeding']} file="vehicle.png" label="Vehicle details" second={{file:'violator.png',label:'Violator details'}}/>;

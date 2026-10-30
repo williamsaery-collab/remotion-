@@ -1,0 +1,5 @@
+{
+  "ria": {"enabled": true, "startSeconds": 0, "durationSeconds": 54, "trimStartSeconds": 0, "volume": 1},
+  "micah": {"enabled": true, "startSeconds": 54, "durationSeconds": 49, "trimStartSeconds": 0, "volume": 1},
+  "joseph": {"enabled": true, "startSeconds": 103, "durationSeconds": 47, "trimStartSeconds": 0, "volume": 1}
+}

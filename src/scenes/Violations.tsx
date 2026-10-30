@@ -1,0 +1,2 @@
+import {Feature} from '../Feature';
+export const Violations=()=> <Feature number="07" chapter="VIOLATIONS & FINES" kicker="FROM SELECTION TO CALCULATION" title={'Select the violation.\nCalculate the fine.'} body="Automatic fine calculation supports a more consistent ticketing workflow." steps={['Select applicable violations','Calculate using configured fines','Review the ticket total']} file="violations.png" label="Violations & automatic fine calculation"/>;

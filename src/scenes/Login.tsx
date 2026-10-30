@@ -1,0 +1,2 @@
+import {Feature} from '../Feature';
+export const Login=()=> <Feature number="04" chapter="OFFICER ACCESS" kicker="READY FOR DUTY" title={'One sign-in.\nA clear start.'} body="Officer login and a dashboard bring the workflow into focus." steps={['Officer login','Dashboard overview','Begin a ticketing workflow']} file="dashboard.png" label="Officer dashboard" second={{file:'login.png',label:'Officer login'}}/>;

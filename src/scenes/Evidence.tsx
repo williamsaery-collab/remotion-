@@ -1,0 +1,2 @@
+import {Feature} from '../Feature';
+export const Evidence=()=> <Feature number="06" chapter="CAMERA EVIDENCE & GPS" kicker="ADD CONTEXT TO EVERY RECORD" title={'See the evidence.\nKnow the place.'} body="Camera evidence and GPS location give each record more context." steps={['Capture camera evidence','Attach GPS location','Keep the context together']} file="gps.png" label="GPS location" second={{file:'camera.png',label:'Camera evidence'}}/>;

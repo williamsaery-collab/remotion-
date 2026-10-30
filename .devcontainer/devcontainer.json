@@ -1,0 +1,8 @@
+{
+  "name": "MiJoRi LTO Video",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "forwardPorts": [3000],
+  "portsAttributes": {"3000": {"label": "Remotion Preview", "onAutoForward": "openBrowser"}},
+  "postCreateCommand": "npm ci",
+  "postStartCommand": "nohup npm run dev > /tmp/mijori-preview.log 2>&1 &"
+}

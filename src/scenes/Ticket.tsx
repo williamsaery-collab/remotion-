@@ -1,0 +1,2 @@
+import {Feature} from '../Feature';
+export const Ticket=()=> <Feature number="08" chapter="DIGITAL TICKET" kicker="A RECORD, READY TO REFERENCE" title={'A digital ticket.\nA clear reference.'} body="Bring the details together in a digital ticket with a QR code." steps={['Review the completed details','Generate a digital ticket','Reference the ticket QR code']} file="ticket.png" label="Digital ticket with QR code"/>;

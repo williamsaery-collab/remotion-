@@ -1,0 +1,2 @@
+import {Feature} from '../Feature';
+export const Offline=()=> <Feature number="09" chapter="OFFLINE & SYNCHRONIZATION" kicker="BUILT AROUND FIELD CONDITIONS" title={'Save offline.\nSync when ready.'} body="Offline storage keeps records available for synchronization when connectivity returns." steps={['Store records on the device','Reconnect when available','Synchronize with web administration']} file="sync.png" label="Synchronization" second={{file:'offline.png',label:'Offline storage'}}/>;
