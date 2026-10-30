@@ -1,19 +1,13 @@
-# rnnoise-models
+# Upstream model notice
 
-This repository contains the tools and information used to create the various
-neural network models in rnnoise-nu. With the exception of the tools/ directory
-and this file, none of this work is creative and thus none of it is subject to
-copyright.
+Source: https://github.com/GregorR/rnnoise-models/blob/master/README.md
 
-Note that the name of each model is not meaningful.
+Excerpt from the upstream README:
 
-## Model information
+> This repository contains the tools and information used to create the various
+> neural network models in rnnoise-nu. With the exception of the tools/ directory
+> and this file, none of this work is creative and thus none of it is subject to
+> copyright.
 
-The following table maps expected signal (horizontal) against expected noise
-(vertical). Note that "voice" is distinct from "speech" by the presence of
-non-speech human sounds, such as laughter.
-
-|                   | General               | Voice                 | Speech                |
-| ----------------- | --------------------- | --------------------- | --------------------- |
-| General           | marathon-prescription | leavened-quisling     | orig                  |
-| Recording         | conjoined-burgers     | beguiling-drafter     | somnolent-hogwash     |
+Upstream classifies somnolent-hogwash as its recording-noise/speech model.
+The model is used with FFmpeg arnndn for existing human speech denoising.

@@ -1,0 +1,9 @@
+{
+  "method": "Local Whisper small.en CPU/int8, same model for original and final cleaned audio. This is an ASR continuity diagnostic, not a human transcription or a clean-reference intelligibility score.",
+  "originalAsrWords": 114,
+  "finalAsrWords": 113,
+  "tokenEditDistance": 1,
+  "relativeTokenEditRate": 0.008771929824561403,
+  "quietPhraseRecognized": true,
+  "finalAsrText": "violation and fines. One of the key features we develop is our violation selection system. Officers can select applicable traffic violations and our applications automatically calculates the corresponding total fines. This reduces the manual compensation during the ticket preparation. And second is the digital traffic ticket. After completing the required information, our application generates a digital traffic violation ticket. Each ticket includes a unique reference number and QR code to support organized or record management. And last is the offline capability. We also designed our application with offline first functionality. Traffic ticket records can be saved locally when the internet connectivity is unavailable and synchronized with a server once the connection is explored."
+}

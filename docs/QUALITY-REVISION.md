@@ -44,3 +44,11 @@ python scripts/verify-export.py out/mijori-lto-officer-final-v2.mp4
 ```
 
 The four sample exports cover ticket creation, camera capture, violations/fines and digital ticket. They contain the real composition audio and captions and are decoded with strict FFmpeg error checking. Final verification checks frame count, resolution, FPS, complete decode, motion samples, full mixed-audio correlation, complete source voice checksums and voice sections, loudness and true peak. Privacy masks are reviewed visually and with OCR samples.
+
+The final normalized Joseph track was independently transcribed again with the same local model. The quiet “application generates a digital traffic violation ticket” phrase is recognized. ASR text differs from the original ASR baseline by 1 token edit(s) across 114 baseline words; see JOSEPH-ASR-CONTINUITY.json. This diagnostic is not a substitute for human listening or a valid clean-reference intelligibility score.
+
+## Completed revised export
+
+Created and fully verified: `MiJoRi-Tech-LTO-Officer-IT311-Final-Revised-v2.mp4`, 45884761 bytes, SHA-256 `2e1ba2caabe47b5f0a73d739bbe32a3c37756fe40aad60cdb928cce07932d3d8`. Video: 1920×1080, 30 FPS, 5027 frames, 167.573-second container duration, H.264/AAC stereo. Full strict decode passed. All 168 sampled one-second frames differ from their neighbors. Exported audio correlation with the complete prepared mix is 0.9833, with the expected 23 ms AAC encoder offset. Beginning/middle/ending voice sections pass. Integrated loudness -16.02 LUFS, true peak -3.41 dBTP. Actual MP4 frames for the form, camera preview, fines, ticket and credits were inspected.
+
+The original v1 MP4 remains unchanged (65,003,341 bytes, SHA-256 `ee34932d01b0400fa84b7e805ff12a29725ff62566423e3b0ee777e10d1d4037`). Its prior Drive link remains available.

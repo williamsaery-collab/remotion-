@@ -104,3 +104,10 @@ JSON maps and captions are committed, so no transcription service is needed to r
 
 
 Latest quality revision: see [docs/QUALITY-REVISION.md](docs/QUALITY-REVISION.md) for larger real-app demonstrations and the Joseph RNNoise cleanup.
+
+
+## Verified revised MP4
+
+[Download the revised final MP4](https://drive.usercontent.google.com/download?id=1jRjFxY3qkkizCZhoDuqM29WY1dK_hBad&export=download) — 1920×1080, 30 FPS, 167.573 seconds, 45,884,761 bytes. Public anonymous download was checked byte-for-byte against the original export.
+
+[Drive viewer](https://drive.google.com/file/d/1jRjFxY3qkkizCZhoDuqM29WY1dK_hBad/view?usp=drivesdk) · [Preserved previous final](https://drive.google.com/file/d/1uuS-QwU0SlJj2PyWrtTTjMrLVo0-fvMl/view) · [Joseph original/revised comparison](https://drive.google.com/file/d/1RDH2U2a2x-imB0Duz1w8OfOAl6vIbzPs/view) · [Four revised scene samples](https://drive.google.com/file/d/1I5fskAmWSU0thqHQLIpWLIrvUVvdGbL8/view).
