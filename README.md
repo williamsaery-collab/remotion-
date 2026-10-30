@@ -1,3 +1,13 @@
+# Revised motion and cleaned-audio preview
+
+**Preview20** now has continuous camera/object motion, perspective traffic,
+animated light trails, larger rotating phone, and separate cleaned recordings.
+The original MP3s remain unchanged. Original subtle sound effects are mixed with
+Ria for the 20-second preview. Music is disabled pending a licensed instrumental.
+See [motion/audio improvements](docs/audio/IMPROVEMENTS.md) and the measured
+[src/audio/processing-report.json](src/audio/processing-report.json).
+The full film remains pending approval. Earlier notes below are historical.
+
 # Current deliverable: 20-second motion preview
 
 Select **Preview20** in Remotion Studio or use `npm run render:preview`.

@@ -9,7 +9,8 @@
       "fromFrame": 0,
       "durationFrames": 1614,
       "playbackRate": 1,
-      "trimStartFrames": 0
+      "trimStartFrames": 0,
+      "cleanedFile": "voices/cleaned/ria.flac"
     },
     {
       "speaker": "micah",
@@ -19,7 +20,8 @@
       "fromFrame": 1629,
       "durationFrames": 1291,
       "playbackRate": 1,
-      "trimStartFrames": 0
+      "trimStartFrames": 0,
+      "cleanedFile": "voices/cleaned/micah.flac"
     },
     {
       "speaker": "joseph",
@@ -29,7 +31,8 @@
       "fromFrame": 2935,
       "durationFrames": 1732,
       "playbackRate": 1,
-      "trimStartFrames": 0
+      "trimStartFrames": 0,
+      "cleanedFile": "voices/cleaned/joseph.flac"
     }
   ],
   "closingFromFrame": 4667,

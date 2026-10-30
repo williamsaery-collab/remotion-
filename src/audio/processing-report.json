@@ -1,0 +1,284 @@
+{
+  "originalsPreserved": true,
+  "cleaned": {
+    "ria": {
+      "filters": "aformat=channel_layouts=mono,highpass=f=70:p=2,lowpass=f=14000,afftdn=nr=4:nf=-55:tn=0:gs=8,equalizer=f=2200:t=q:w=0.8:g=0.7,acompressor=threshold=0.18:ratio=2:attack=18:release=180:knee=2.5:makeup=1:detection=rms,alimiter=limit=0.84:level=false:latency=true",
+      "original": {
+        "input_i": "-7.52",
+        "input_tp": "1.90",
+        "input_lra": "2.40",
+        "input_thresh": "-17.90",
+        "output_i": "-16.98",
+        "output_tp": "-7.80",
+        "output_lra": "2.80",
+        "output_thresh": "-27.34",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.02"
+      },
+      "processed": {
+        "input_i": "-17.00",
+        "input_tp": "-3.90",
+        "input_lra": "2.10",
+        "input_thresh": "-27.30",
+        "output_i": "-17.01",
+        "output_tp": "-3.83",
+        "output_lra": "2.00",
+        "output_thresh": "-27.32",
+        "normalization_type": "dynamic",
+        "target_offset": "0.01"
+      },
+      "originalSha256": "cf76273bfee1e1c7972ef0b376cce80ac25257152887854cc747c40c010ae926",
+      "deEsser": "not applied; no clear persistent sibilance problem in spectral inspection",
+      "decodedDurationOriginalSeconds": 53.753875,
+      "decodedDurationCleanSeconds": 53.7539375,
+      "quietToSpeechContrastDb": {
+        "original": 53.22,
+        "cleaned": 38.36
+      },
+      "originalInspection": {
+        "name": "ria",
+        "rmsDb": -7.829950332641602,
+        "samplePeakDb": 3.6197943687438965,
+        "quiet10PercentRmsDb": -59.77565383911133,
+        "quietBandsDb": {
+          "rumble": -13.1,
+          "voice": -3.7,
+          "sibilance": -15.1
+        },
+        "speechBandsDb": {
+          "rumble": -41.5,
+          "voice": -0.0,
+          "sibilance": -31.1
+        },
+        "loudness": {
+          "input_i": "-7.52",
+          "input_tp": "1.90",
+          "input_lra": "2.40",
+          "input_thresh": "-17.90",
+          "output_i": "-16.98",
+          "output_tp": "-7.80",
+          "output_lra": "2.80",
+          "output_thresh": "-27.34",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.02"
+        }
+      }
+    },
+    "micah": {
+      "filters": "aformat=channel_layouts=mono,highpass=f=75:p=2,lowpass=f=14000,afftdn=nr=4:nf=-58:tn=0:gs=8,equalizer=f=2200:t=q:w=0.8:g=0.7,acompressor=threshold=0.18:ratio=2:attack=18:release=180:knee=2.5:makeup=1:detection=rms,alimiter=limit=0.84:level=false:latency=true",
+      "original": {
+        "input_i": "-12.99",
+        "input_tp": "0.67",
+        "input_lra": "3.00",
+        "input_thresh": "-23.34",
+        "output_i": "-16.20",
+        "output_tp": "-1.80",
+        "output_lra": "1.40",
+        "output_thresh": "-26.56",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.80"
+      },
+      "processed": {
+        "input_i": "-16.99",
+        "input_tp": "-1.80",
+        "input_lra": "1.20",
+        "input_thresh": "-27.27",
+        "output_i": "-16.93",
+        "output_tp": "-1.80",
+        "output_lra": "1.20",
+        "output_thresh": "-27.23",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.07"
+      },
+      "originalSha256": "2fd17558604628d7b13c6f29e2db83933b19206d12d09c58fb3488dab8126c29",
+      "deEsser": "not applied; no clear persistent sibilance problem in spectral inspection",
+      "decodedDurationOriginalSeconds": 42.980125,
+      "decodedDurationCleanSeconds": 42.9801875,
+      "quietToSpeechContrastDb": {
+        "original": 52.91,
+        "cleaned": 42.58
+      },
+      "originalInspection": {
+        "name": "micah",
+        "rmsDb": -13.466211318969727,
+        "samplePeakDb": 2.943748950958252,
+        "quiet10PercentRmsDb": -66.66505432128906,
+        "quietBandsDb": {
+          "rumble": -5.0,
+          "voice": -4.0,
+          "sibilance": -13.6
+        },
+        "speechBandsDb": {
+          "rumble": -41.1,
+          "voice": -0.1,
+          "sibilance": -17.4
+        },
+        "loudness": {
+          "input_i": "-12.99",
+          "input_tp": "0.67",
+          "input_lra": "3.00",
+          "input_thresh": "-23.34",
+          "output_i": "-16.20",
+          "output_tp": "-1.58",
+          "output_lra": "1.40",
+          "output_thresh": "-26.56",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.80"
+        }
+      }
+    },
+    "joseph": {
+      "filters": "aformat=channel_layouts=mono,highpass=f=85:p=2,lowpass=f=14000,afftdn=nr=8:nf=-43:tn=0:gs=8,equalizer=f=2200:t=q:w=0.8:g=0.7,acompressor=threshold=0.18:ratio=2:attack=18:release=180:knee=2.5:makeup=1:detection=rms,alimiter=limit=0.84:level=false:latency=true",
+      "original": {
+        "input_i": "-22.01",
+        "input_tp": "-8.65",
+        "input_lra": "3.90",
+        "input_thresh": "-32.44",
+        "output_i": "-17.04",
+        "output_tp": "-2.45",
+        "output_lra": "3.60",
+        "output_thresh": "-27.41",
+        "normalization_type": "dynamic",
+        "target_offset": "0.04"
+      },
+      "processed": {
+        "input_i": "-17.12",
+        "input_tp": "-1.78",
+        "input_lra": "3.40",
+        "input_thresh": "-27.60",
+        "output_i": "-17.14",
+        "output_tp": "-1.80",
+        "output_lra": "2.80",
+        "output_thresh": "-27.54",
+        "normalization_type": "dynamic",
+        "target_offset": "0.14"
+      },
+      "originalSha256": "2002d2f5280c8814c0428f89509a363ca9a5225cf5e0003ec93981a69689bc79",
+      "deEsser": "not applied; no clear persistent sibilance problem in spectral inspection",
+      "decodedDurationOriginalSeconds": 57.701625,
+      "decodedDurationCleanSeconds": 57.701625,
+      "quietToSpeechContrastDb": {
+        "original": 21.28,
+        "cleaned": 17.62
+      },
+      "originalInspection": {
+        "name": "joseph",
+        "rmsDb": -23.042800903320312,
+        "samplePeakDb": -5.950570583343506,
+        "quiet10PercentRmsDb": -42.7153434753418,
+        "quietBandsDb": {
+          "rumble": -12.8,
+          "voice": -0.9,
+          "sibilance": -14.4
+        },
+        "speechBandsDb": {
+          "rumble": -21.9,
+          "voice": -0.1,
+          "sibilance": -23.0
+        },
+        "loudness": {
+          "input_i": "-22.01",
+          "input_tp": "-8.65",
+          "input_lra": "3.90",
+          "input_thresh": "-32.44",
+          "output_i": "-17.04",
+          "output_tp": "-2.45",
+          "output_lra": "3.60",
+          "output_thresh": "-27.41",
+          "normalization_type": "dynamic",
+          "target_offset": "0.04"
+        }
+      },
+      "stableOpeningNoiseDbfs": {
+        "windowSeconds": [
+          0.05,
+          0.35
+        ],
+        "original": -46.53,
+        "cleaned": -55.7
+      }
+    }
+  },
+  "music": {
+    "enabled": false,
+    "missing": "A licensed instrumental track and its usage terms"
+  },
+  "previewMix": {
+    "input_i": "-16.00",
+    "input_tp": "-5.77",
+    "input_lra": "2.50",
+    "input_thresh": "-26.40",
+    "output_i": "-16.30",
+    "output_tp": "-6.08",
+    "output_lra": "1.60",
+    "output_thresh": "-26.66",
+    "normalization_type": "dynamic",
+    "target_offset": "0.30"
+  },
+  "sfxCues": [
+    {
+      "time": 0.25,
+      "effect": "tick",
+      "gain": 0.022
+    },
+    {
+      "time": 1.25,
+      "effect": "tick",
+      "gain": 0.018
+    },
+    {
+      "time": 2.25,
+      "effect": "tick",
+      "gain": 0.018
+    },
+    {
+      "time": 5.7,
+      "effect": "whoosh",
+      "gain": 0.055
+    },
+    {
+      "time": 6.72,
+      "effect": "click",
+      "gain": 0.027
+    },
+    {
+      "time": 7.8,
+      "effect": "click",
+      "gain": 0.027
+    },
+    {
+      "time": 9.92,
+      "effect": "click",
+      "gain": 0.027
+    },
+    {
+      "time": 12,
+      "effect": "whoosh",
+      "gain": 0.045
+    },
+    {
+      "time": 12.65,
+      "effect": "rise",
+      "gain": 0.055
+    },
+    {
+      "time": 14.9,
+      "effect": "whoosh",
+      "gain": 0.065
+    },
+    {
+      "time": 16.7,
+      "effect": "confirmation",
+      "gain": 0.035
+    }
+  ],
+  "exportedPreview": {
+    "integratedLufs": -16.08,
+    "truePeakDbtp": -5.78,
+    "loudnessRangeLu": 2.4,
+    "videoFrames": 600,
+    "fps": 30,
+    "width": 1920,
+    "height": 1080
+  }
+}

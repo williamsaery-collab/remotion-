@@ -80,3 +80,26 @@ refined to keep phrases readable across short word gaps. Credentials and server
 address are irreversibly masked in the login PNG, inspected before publication.
 Legacy full-film audio was disabled so old cue durations cannot truncate these
 new official recordings. Full production remains pending preview approval.
+
+## Continuous-motion and audio-cleanup revision
+
+The existing Preview20 composition was revised, with original source MP3s retained.
+Added perspective traffic, continuing camera drift, eased/spring typography, larger
+rotating phone, layered waves, animated icons and light-trail logo formation.
+Sampled DOM motion blur is used on illustration/formation layers; experimental
+HTML-in-canvas blur was tested and replaced after a Chromium paint-cache failure.
+Actual login pixels remain from the redacted original screenshot.
+
+Conservative per-speaker noise reduction/EQ/compression and two-pass loudness
+normalization produced separate FLAC voice masters. Decoded durations remain
+within a fraction of one millisecond of the original recordings. Source hashes
+remain unchanged. Voice levels measure approximately -17 LUFS per file.
+No persistent sibilance problem was established; de-essing was not applied.
+Music is disabled pending a licensed file; original procedural effects are active.
+
+A complete revised 600-frame preview was exported at 1920x1080, 30fps with stereo
+narration/SFX. Export measured -16.08 LUFS integrated, -5.78 dBTP true peak and
+2.4 LU loudness range. Road, icon, logo and phone frames were inspected; a final
+layout correction keeps opening type inside the safe area. Build, source-integrity
+tests and Studio check passed. No physical phone-speaker listening test or complete
+full-length movie export is claimed.
