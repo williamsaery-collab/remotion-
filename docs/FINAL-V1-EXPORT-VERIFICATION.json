@@ -1,0 +1,52 @@
+{
+  "path": "/workspace/mijori-lto-video/out/mijori-lto-officer-final.mp4",
+  "bytes": 65003341,
+  "sha256": "ee34932d01b0400fa84b7e805ff12a29725ff62566423e3b0ee777e10d1d4037",
+  "durationSeconds": 167.573,
+  "videoFrames": 5027,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "audioChannels": 2,
+  "completeDecode": "passed",
+  "consecutiveIdenticalOneSecondSamples": 0,
+  "sampledFrames": 168,
+  "audioCorrelationToPreparedMix": 0.9830224474476282,
+  "audioEncoderOffsetSeconds": 0.023,
+  "voices": [
+    {
+      "speaker": "ria",
+      "sectionCorrelations": [
+        0.9749492075188977,
+        0.97379560677357,
+        0.9727409670810628
+      ],
+      "fullSourceSeconds": 53.786122,
+      "fromFrame": 0
+    },
+    {
+      "speaker": "micah",
+      "sectionCorrelations": [
+        0.9761439340810314,
+        0.9739214326499479,
+        0.9564080603250957
+      ],
+      "fullSourceSeconds": 43.023673,
+      "fromFrame": 1629
+    },
+    {
+      "speaker": "joseph",
+      "sectionCorrelations": [
+        0.7858555690871766,
+        0.9434367229363044,
+        0.9360390514281555
+      ],
+      "fullSourceSeconds": 57.730612,
+      "fromFrame": 2935
+    }
+  ],
+  "integratedLufs": -16.03,
+  "truePeakDbtp": -3.19,
+  "titleRevealFrame": 865,
+  "purposeNarrationInvented": false
+}

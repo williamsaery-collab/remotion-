@@ -1,6 +1,6 @@
 """Verify a real final MP4 after rendering; never treats an incomplete file as success."""
 import sys,pathlib,subprocess,json,numpy as np,hashlib
-ROOT=pathlib.Path(__file__).resolve().parent.parent;path=pathlib.Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'out/mijori-lto-officer-final.mp4'
+ROOT=pathlib.Path(__file__).resolve().parent.parent;path=pathlib.Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'out/mijori-lto-officer-final-v2.mp4'
 if not path.is_absolute():path=ROOT/path
 assert path.is_file() and path.stat().st_size>1000000,'No complete MP4 file'
 sync=json.load(open(ROOT/'src/production/sync-map.json'))

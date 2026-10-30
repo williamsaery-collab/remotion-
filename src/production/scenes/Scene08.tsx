@@ -1,4 +1,35 @@
-import {useCurrentFrame,useVideoConfig,interpolate} from 'remotion';
-import {Stage,Device,Copy,Badge} from '../ProductionKit';
-import {smooth} from '../../LaunchElements';
-export const Scene08=()=>{const f=useCurrentFrame();const {fps}=useVideoConfig();const t=f/fps;return <Stage><Copy kicker="ELECTRONIC TRAFFIC TICKET" title={'One digital ticket.\nA clear reference.'} body="The completed details become an organized digital record."><Badge delay={2}>Unique reference number</Badge><div style={{fontSize:38,color:'#FFE1A1',marginTop:24,opacity:interpolate(t,[9.3,10],[0,1],smooth)}}>TK-2026-213385</div><Badge delay={10.7}>QR ticket reference</Badge><div style={{fontSize:19,color:'#c8ddf4',lineHeight:1.5,marginTop:20,opacity:interpolate(t,[10.5,11.5],[0,1],smooth)}}>The real QR code is masked because it contains<br/>a private server URL. No replacement code is invented.</div></Copy><Device screen="ticket" enter={-3}/><svg width="170" height="110" style={{position:'absolute',left:1350,top:185,opacity:interpolate(t,[10,11],[0,1],smooth)}}><rect x="90" y="20" width="40" height="38" rx="5" fill="#E6AA36"/><path d="M98 20V9a12 12 0 0 1 24 0v11" stroke="#E6AA36" strokeWidth="6" fill="none"/><circle cx="110" cy="36" r="4" fill="#08192C"/></svg></Stage>};
+import {Stage} from '../ProductionKit';
+import {AppDemo} from '../AppDemo';
+export const Scene08=()=> <Stage><AppDemo title="DIGITAL TRAFFIC TICKET" beats={[
+ {
+  "at": 0,
+  "media": "ticket",
+  "y": 65,
+  "label": "The completed digital ticket"
+ },
+ {
+  "at": 4.5,
+  "media": "ticket",
+  "y": 545,
+  "label": "Recorded violations and total fine"
+ },
+ {
+  "at": 8.9,
+  "media": "ticket",
+  "y": 225,
+  "label": "Unique reference · TK-2026-213385"
+ },
+ {
+  "at": 11.2,
+  "media": "ticket",
+  "y": 215,
+  "label": "QR ticket reference",
+  "note": "Original QR area protected: it encodes a private server address. No replacement code."
+ },
+ {
+  "at": 14,
+  "media": "ticket",
+  "y": 850,
+  "label": "View or print the ticket"
+ }
+]}/></Stage>;

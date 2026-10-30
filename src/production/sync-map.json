@@ -258,7 +258,7 @@
       "endFrame": 1334,
       "scene": 4,
       "visualAsset": "screenshots/approved/dashboard.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -273,7 +273,7 @@
       "endFrame": 1448,
       "scene": 4,
       "visualAsset": "screenshots/approved/dashboard.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -288,7 +288,7 @@
       "endFrame": 1604,
       "scene": 4,
       "visualAsset": "screenshots/approved/dashboard.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -303,7 +303,7 @@
       "endFrame": 1764,
       "scene": 5,
       "visualAsset": "screenshots/approved/violator.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -318,7 +318,7 @@
       "endFrame": 2010,
       "scene": 5,
       "visualAsset": "screenshots/approved/violator.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -333,7 +333,7 @@
       "endFrame": 2181,
       "scene": 5,
       "visualAsset": "screenshots/approved/violator.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -348,7 +348,7 @@
       "endFrame": 2482,
       "scene": 6,
       "visualAsset": "screenshots/approved/camera.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "shutter"
     },
@@ -363,7 +363,7 @@
       "endFrame": 2700,
       "scene": 6,
       "visualAsset": "screenshots/approved/camera.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "shutter"
     },
@@ -378,7 +378,7 @@
       "endFrame": 2806,
       "scene": 6,
       "visualAsset": "screenshots/approved/camera.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "shutter"
     },
@@ -393,7 +393,7 @@
       "endFrame": 2902,
       "scene": 6,
       "visualAsset": "screenshots/approved/camera.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "shutter"
     },
@@ -408,7 +408,7 @@
       "endFrame": 3136,
       "scene": 7,
       "visualAsset": "screenshots/approved/violations.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -423,7 +423,7 @@
       "endFrame": 3392,
       "scene": 7,
       "visualAsset": "screenshots/approved/violations.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -438,7 +438,7 @@
       "endFrame": 3542,
       "scene": 7,
       "visualAsset": "screenshots/approved/violations.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "click"
     },
@@ -453,7 +453,7 @@
       "endFrame": 3647,
       "scene": 8,
       "visualAsset": "screenshots/approved/ticket.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "notification"
     },
@@ -468,7 +468,7 @@
       "endFrame": 3835,
       "scene": 8,
       "visualAsset": "screenshots/approved/ticket.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "notification"
     },
@@ -483,7 +483,7 @@
       "endFrame": 4045,
       "scene": 8,
       "visualAsset": "screenshots/approved/ticket.png",
-      "animation": "frame-driven spring entrance, continuous drift and readable focus",
+      "animation": "Straight-on native app overview and 1240×650 crop, eased pan to narrated fields; real recording interactions",
       "transition": "18-frame overlapping lateral reveal",
       "soundEffect": "notification"
     },

@@ -1,3 +1,5 @@
+The production below describes the preserved v1 export. For the current revision, see [QUALITY-REVISION.md](QUALITY-REVISION.md) and FINAL-EXPORT-VERIFICATION.json. The v1 measurements remain in FINAL-V1-EXPORT-VERIFICATION.json.
+
 # Final production notes
 
 The full production uses the existing working Remotion project and retains its

@@ -1,0 +1,67 @@
+[
+  {
+    "file": "public/footage/login.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "start": 18.5,
+    "seconds": 7,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=110:y=480:w=400:h=180:color=white:t=fill:enable='lt(t,1.9)'",
+      "drawbox=x=150:y=1125:w=300:h=55:color=0x0B1B2E:t=fill:enable='lt(t,1.9)'",
+      "drawbox=x=0:y=830:w=576:h=390:color=0x0B1B2E:t=fill:enable='lt(t,1.9)'",
+      "drawbox=x=110:y=100:w=360:h=85:color=0x0B1B2E:t=fill:enable='gte(t,1.5)'",
+      "drawbox=x=100:y=470:w=440:h=410:color=white:t=fill:enable='gte(t,1.5)'"
+    ],
+    "sha256": "42f679dadb4f9be55906ce3c0ddc7c970a94afd140ed6542c3156dac0eac2288"
+  },
+  {
+    "file": "public/footage/names.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "start": 37,
+    "seconds": 5,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=50:y=300:w=475:h=48:color=white:t=fill",
+      "drawbox=x=50:y=420:w=475:h=45:color=white:t=fill",
+      "drawbox=x=50:y=535:w=475:h=45:color=white:t=fill",
+      "drawbox=x=0:y=820:w=576:h=85:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "bdeb801fe2c20a36dfaba891745d2df1a7010a6ae2263c81a62bbeea68514bc2"
+  },
+  {
+    "file": "public/footage/camera.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "start": 94,
+    "seconds": 4,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "fd0853465332debf02ebc939e26c7f51767bcf76ba34b6b539c701b2b9cf26d3"
+  },
+  {
+    "file": "public/footage/selection.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "start": 98,
+    "seconds": 5,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "b33cb0f07f03a489bdd13b27b9b30256e9fdb0ccc0da3e27449acea695d12777"
+  },
+  {
+    "file": "public/footage/fines.mp4",
+    "source": "VID_20261030_121029_167.mp4",
+    "start": 118.4,
+    "seconds": 3,
+    "masks": [
+      "drawbox=x=0:y=0:w=576:h=59:color=0xF4F5FB:t=fill",
+      "drawbox=x=0:y=1220:w=576:h=60:color=0x0B1B2E:t=fill",
+      "drawbox=x=0:y=830:w=576:h=75:color=0x0B1B2E:t=fill"
+    ],
+    "sha256": "12d2d07b0d613ab16f4289f5aa33d4efe8c5d9790b3268f4230e0c9841cfe88e"
+  }
+]

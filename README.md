@@ -101,3 +101,6 @@ JSON maps and captions are committed, so no transcription service is needed to r
 - Joseph P. Yamson — Programmer
 
 **Smarter Enforcement. Safer Roads.**
+
+
+Latest quality revision: see [docs/QUALITY-REVISION.md](docs/QUALITY-REVISION.md) for larger real-app demonstrations and the Joseph RNNoise cleanup.

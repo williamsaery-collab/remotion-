@@ -1,0 +1,42 @@
+{
+  "sourceSha256": "2002d2f5280c8814c0428f89509a363ca9a5225cf5e0003ec93981a69689bc79",
+  "modelSha256": "70bb6685eb0c2a1d18e2918dca3fbfbd39317010b1802eb1b6ea73a92f3fdec0",
+  "filter": "aformat=channel_layouts=mono,aresample=48000,highpass=f=85:p=2,arnndn=m=/workspace/mijori-lto-video/assets/audio-models/sh.rnnn:mix=0.88,atrim=start_sample=480,asetpts=PTS-STARTPTS,apad=whole_len=2769677,atrim=end_sample=2769677,lowpass=f=13000,equalizer=f=2200:t=q:w=0.8:g=0.7,acompressor=threshold=0.18:ratio=2:attack=18:release=180:knee=2.5:makeup=1:detection=rms,alimiter=limit=0.84:level=false:latency=true",
+  "modelMix": 0.88,
+  "latencyCompensationSamples48000Hz": 480,
+  "originalSamples48000Hz": 2769677,
+  "revisedSamples48000Hz": 2769678,
+  "measurements": {
+    "input_i": "-17.25",
+    "input_tp": "-1.78",
+    "input_lra": "2.80",
+    "input_thresh": "-27.91",
+    "output_i": "-17.10",
+    "output_tp": "-1.80",
+    "output_lra": "2.60",
+    "output_thresh": "-27.66",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "floorComparison": {
+    "original": {
+      "speechRmsDb": -22.356904686751136,
+      "nonSpeechRmsDb": -34.26872048714147,
+      "speechToNonSpeechDb": 11.911815800390336,
+      "tailNoiseRelativeToSpeechDb": -16.924084407700875
+    },
+    "previous": {
+      "speechRmsDb": -17.589535349223308,
+      "nonSpeechRmsDb": -28.42627482358004,
+      "speechToNonSpeechDb": 10.836739474356733,
+      "tailNoiseRelativeToSpeechDb": -16.649619207214002
+    },
+    "revised": {
+      "speechRmsDb": -17.739999728612204,
+      "nonSpeechRmsDb": -34.10844766916108,
+      "speechToNonSpeechDb": 16.36844794054888,
+      "tailNoiseRelativeToSpeechDb": -28.959507648349046
+    }
+  },
+  "note": "Non-speech windows can include breaths and handling noise. These are noise-floor proxies, not clean-reference intelligibility/STOI scores. Residual transient handling noise may remain."
+}

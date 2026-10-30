@@ -1,0 +1,27 @@
+{
+  "baseCommit": "b96e72ecc5f34c052931500c124cc74bcf081f47",
+  "preservationChecks": {
+    "durationFrames": true,
+    "fps": true,
+    "revealFrame": true,
+    "revealSeconds": true,
+    "titleRevealPhrase": true,
+    "audioOrder": true,
+    "tracks": true,
+    "scenes": true,
+    "src/production/all-captions.json": "byte-identical",
+    "src/production/ria-captions.json": "byte-identical",
+    "src/production/micah-captions.json": "byte-identical",
+    "src/production/joseph-captions.json": "byte-identical",
+    "src/production/scenes/Scene01.tsx": "byte-identical",
+    "src/production/scenes/Scene02.tsx": "byte-identical",
+    "src/production/scenes/Scene03.tsx": "byte-identical",
+    "src/production/scenes/Scene10.tsx": "byte-identical",
+    "public/subtitles/final.srt": "byte-identical"
+  },
+  "privacySampledFrames": 71,
+  "privacyOcrMatches": 0,
+  "revealFrame": 865,
+  "fps": 30,
+  "completeNarrationPreserved": true
+}

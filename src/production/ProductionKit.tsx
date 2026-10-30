@@ -30,6 +30,7 @@ for(const w of words){const last=pages.at(-1);if(!last||last.length>=6||last.map
 export const ProductionCaptions=()=>{
  const f=useCurrentFrame();const {fps}=useVideoConfig();const ms=f/fps*1000;let active=-1;for(let i=0;i<words.length;i++)if(ms>=words[i].startMs)active=i;
  if(active<0||ms>words[active].endMs+350)return null;const group=pages.find(p=>p.some(w=>w.startMs===words[active].startMs&&w.speaker===words[active].speaker))!;
- return <div style={{position:'absolute',left:120,right:120,bottom:113,fontFamily:'Arial, Helvetica, sans-serif',fontSize:33,lineHeight:1.35,textAlign:'center',textShadow:'0 2px 8px #001333',fontWeight:500,color:'white'}}>{group.map((w,i)=><span key={i} style={{color:w.startMs===words[active].startMs?'#FFE1A1':'white'}}>{w.text}</span>)}</div>;
+ const demo=f/fps>=sync.scenes[3].startFrame/30&&f/fps<sync.scenes[8].startFrame/30;
+ return <div style={{position:'absolute',left:demo?550:120,right:demo?130:120,bottom:113,fontFamily:'Arial, Helvetica, sans-serif',fontSize:33,lineHeight:1.35,textAlign:'center',textShadow:'0 2px 8px #001333',fontWeight:500,color:'white'}}>{group.map((w,i)=><span key={i} style={{color:w.startMs===words[active].startMs?'#FFE1A1':'white'}}>{w.text}</span>)}</div>;
 };
 export const ProjectFooter=()=> <><div style={{position:'absolute',left:95,bottom:43,fontFamily:'Arial, sans-serif',fontSize:16,color:'#d1e4fb',letterSpacing:1}}>IT311 — Application Development &amp; Emerging Technology <span style={{color:'#FFE1A1',marginLeft:18}}>FINAL PROJECT</span></div><div style={{position:'absolute',right:95,bottom:43,fontFamily:'Arial, sans-serif',fontSize:16,color:'#d1e4fb'}}>Student-developed application</div></>;

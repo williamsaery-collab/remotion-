@@ -1,5 +1,41 @@
-import {useCurrentFrame,useVideoConfig,interpolate} from 'remotion';
-import {Stage,Device,Copy,Badge,Screen} from '../ProductionKit';
-import {smooth} from '../../LaunchElements';
-export const Scene05=()=>{const f=useCurrentFrame();const {fps}=useVideoConfig();const t=f/fps;let screen:Screen='violator',prev:Screen|undefined;let change=0;if(t>=8.2){screen='addressClip';prev='violator';change=8.2;}if(t>=10.4){screen='vehicleClip';prev='addressClip';change=10.4;}if(t>=13.65){screen='vehicle';prev='vehicleClip';change=13.65;}
- return <Stage><Copy kicker="CREATE A TRAFFIC TICKET" title={t<13.65?'The right details.\nGuided steps.':'Required details.\nFewer encoding errors.'} body={t<13.65?'Record violator, address and vehicle information in one workflow.':'Required fields support input validation during ticket preparation.'}><Badge delay={2}>Violator information</Badge><Badge delay={7}>Address selection</Badge><Badge delay={10}>Vehicle details</Badge></Copy><Device screen={screen} previous={prev} changeAt={change} enter={-3}/><div style={{position:'absolute',left:1180,top:978,fontSize:14,color:'#c9e4ff',opacity:interpolate(t,[5.5,6],[0,1],smooth)}}>Actual app capture · private fields masked</div></Stage>};
+import {Stage} from '../ProductionKit';
+import {AppDemo} from '../AppDemo';
+export const Scene05=()=> <Stage><AppDemo title="CREATE A TRAFFIC TICKET" beats={[
+ {
+  "at": 0,
+  "media": "violator",
+  "y": 230,
+  "label": "Violator information"
+ },
+ {
+  "at": 3.6,
+  "media": "namesClip",
+  "y": 235,
+  "label": "Name fields",
+  "note": "Real field interaction · entered personal details protected"
+ },
+ {
+  "at": 8.2,
+  "media": "addressClip",
+  "y": 545,
+  "label": "Select an address"
+ },
+ {
+  "at": 10.4,
+  "media": "vehicleClip",
+  "y": 215,
+  "label": "Vehicle details"
+ },
+ {
+  "at": 13.65,
+  "media": "vehicle",
+  "y": 240,
+  "label": "Required fields"
+ },
+ {
+  "at": 16.1,
+  "media": "vehicle",
+  "y": 685,
+  "label": "Complete required details to continue"
+ }
+]}/></Stage>;
