@@ -8,8 +8,8 @@ on:
       composition:
         description: Video to export
         type: choice
-        default: Opening15
-        options: [Opening15, LTOOfficer]
+        default: Preview20
+        options: [Preview20, Opening15, LTOOfficer]
 permissions:
   contents: read
 jobs:

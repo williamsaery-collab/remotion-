@@ -1,3 +1,4 @@
+import {Preview20} from './Preview20';
 import {CinematicOpening} from './CinematicOpening';
 import {Composition,Folder} from 'remotion';
 import {Film} from './Film';
@@ -11,6 +12,7 @@ import {Ticket} from './scenes/Ticket';
 import {Offline} from './scenes/Offline';
 import {Closing} from './scenes/Closing';
 export const RemotionRoot=()=> <>
+<Composition id="Preview20" component={Preview20} durationInFrames={600} fps={30} width={1920} height={1080}/>
 <Composition id="Opening15" component={CinematicOpening} durationInFrames={450} fps={30} width={1920} height={1080}/>
 <Composition id="LTOOfficer" component={Film} durationInFrames={4500} fps={30} width={1920} height={1080}/>
 <Folder name="Scenes">

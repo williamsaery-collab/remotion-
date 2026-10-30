@@ -11,20 +11,22 @@
     "render": "remotion render src/index.ts LTOOfficer out/lto-officer.mp4",
     "test": "node --test tests/*.test.mjs",
     "verify:frames": "node scripts/verify-render.mjs",
-    "verify:studio": "node scripts/verify-studio.mjs"
+    "verify:studio": "node scripts/verify-studio.mjs",
+    "render:preview": "remotion render src/index.ts Preview20 out/mijori-preview-20s.mp4"
   },
   "dependencies": {
-    "remotion": "4.0.539",
+    "@remotion/captions": "4.0.539",
     "@remotion/cli": "4.0.539",
     "@remotion/media": "4.0.539",
     "@remotion/transitions": "4.0.539",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "remotion": "4.0.539"
   },
   "devDependencies": {
-    "typescript": "5.9.3",
+    "@remotion/renderer": "4.0.539",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
-    "@remotion/renderer": "4.0.539"
+    "typescript": "5.9.3"
   }
 }

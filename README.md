@@ -1,3 +1,13 @@
+# Current deliverable: 20-second motion preview
+
+Select **Preview20** in Remotion Studio or use `npm run render:preview`.
+It uses the brighter blue visual direction, actual redacted login capture and
+Ria's original first 20 seconds, ending at a pause. All three full MP3 recordings
+are included unchanged. No required assets are missing for this preview.
+
+See [20-second preview and audio plan](docs/PREVIEW20.md). The new full production
+is pending preview approval. The material below describes the earlier draft.
+
 # MiJoRi Tech — LTO Officer
 
 Cinematic promotional video for **IT311 — Application Development & Emerging

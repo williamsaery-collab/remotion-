@@ -1,0 +1,261 @@
+[
+  {
+    "text": " Traffic",
+    "startMs": 140,
+    "endMs": 740,
+    "timestampMs": 440,
+    "confidence": 0.6942
+  },
+  {
+    "text": " violations",
+    "startMs": 740,
+    "endMs": 1180,
+    "timestampMs": 960,
+    "confidence": 0.9762
+  },
+  {
+    "text": " happen",
+    "startMs": 1180,
+    "endMs": 1880,
+    "timestampMs": 1530,
+    "confidence": 0.9723
+  },
+  {
+    "text": " in",
+    "startMs": 1880,
+    "endMs": 2260,
+    "timestampMs": 2070,
+    "confidence": 0.9974
+  },
+  {
+    "text": " seconds.",
+    "startMs": 2260,
+    "endMs": 2640,
+    "timestampMs": 2450,
+    "confidence": 0.9914
+  },
+  {
+    "text": " But",
+    "startMs": 3280,
+    "endMs": 3460,
+    "timestampMs": 3370,
+    "confidence": 0.9745
+  },
+  {
+    "text": " documenting",
+    "startMs": 3460,
+    "endMs": 3800,
+    "timestampMs": 3630,
+    "confidence": 0.9907
+  },
+  {
+    "text": " them?",
+    "startMs": 3800,
+    "endMs": 4420,
+    "timestampMs": 4110,
+    "confidence": 0.996
+  },
+  {
+    "text": " That",
+    "startMs": 4420,
+    "endMs": 5100,
+    "timestampMs": 4760,
+    "confidence": 0.6819
+  },
+  {
+    "text": " can",
+    "startMs": 5100,
+    "endMs": 5320,
+    "timestampMs": 5210,
+    "confidence": 0.9911
+  },
+  {
+    "text": " take",
+    "startMs": 5320,
+    "endMs": 5540,
+    "timestampMs": 5430,
+    "confidence": 0.9836
+  },
+  {
+    "text": " much",
+    "startMs": 5540,
+    "endMs": 5740,
+    "timestampMs": 5640,
+    "confidence": 0.9966
+  },
+  {
+    "text": " longer.",
+    "startMs": 5740,
+    "endMs": 6180,
+    "timestampMs": 5960,
+    "confidence": 0.9984
+  },
+  {
+    "text": " Paperwork,",
+    "startMs": 6720,
+    "endMs": 7380,
+    "timestampMs": 7050,
+    "confidence": 0.7207
+  },
+  {
+    "text": " manual",
+    "startMs": 7800,
+    "endMs": 8300,
+    "timestampMs": 8050,
+    "confidence": 0.9787
+  },
+  {
+    "text": " calculations,",
+    "startMs": 8300,
+    "endMs": 8700,
+    "timestampMs": 8500,
+    "confidence": 0.9974
+  },
+  {
+    "text": " delayed",
+    "startMs": 9920,
+    "endMs": 9920,
+    "timestampMs": 9920,
+    "confidence": 0.9913
+  },
+  {
+    "text": " records,",
+    "startMs": 9920,
+    "endMs": 10580,
+    "timestampMs": 10250,
+    "confidence": 0.998
+  },
+  {
+    "text": " in",
+    "startMs": 11620,
+    "endMs": 11620,
+    "timestampMs": 11620,
+    "confidence": 0.9239
+  },
+  {
+    "text": " a",
+    "startMs": 11620,
+    "endMs": 11740,
+    "timestampMs": 11680,
+    "confidence": 0.5834
+  },
+  {
+    "text": " world",
+    "startMs": 11740,
+    "endMs": 11940,
+    "timestampMs": 11840,
+    "confidence": 0.9972
+  },
+  {
+    "text": " That",
+    "startMs": 11940,
+    "endMs": 12140,
+    "timestampMs": 12040,
+    "confidence": 0.9819
+  },
+  {
+    "text": " is",
+    "startMs": 12140,
+    "endMs": 12280,
+    "timestampMs": 12210,
+    "confidence": 0.9683
+  },
+  {
+    "text": " becoming",
+    "startMs": 12280,
+    "endMs": 12600,
+    "timestampMs": 12440,
+    "confidence": 0.998
+  },
+  {
+    "text": " more",
+    "startMs": 12600,
+    "endMs": 13060,
+    "timestampMs": 12830,
+    "confidence": 0.9989
+  },
+  {
+    "text": " digital,",
+    "startMs": 13060,
+    "endMs": 13400,
+    "timestampMs": 13230,
+    "confidence": 0.9887
+  },
+  {
+    "text": " we",
+    "startMs": 14120,
+    "endMs": 14140,
+    "timestampMs": 14130,
+    "confidence": 0.994
+  },
+  {
+    "text": " ask",
+    "startMs": 14140,
+    "endMs": 14460,
+    "timestampMs": 14300,
+    "confidence": 0.9785
+  },
+  {
+    "text": " ourselves",
+    "startMs": 14460,
+    "endMs": 15160,
+    "timestampMs": 14810,
+    "confidence": 0.985
+  },
+  {
+    "text": " one",
+    "startMs": 15160,
+    "endMs": 15980,
+    "timestampMs": 15570,
+    "confidence": 0.7886
+  },
+  {
+    "text": " question.",
+    "startMs": 15980,
+    "endMs": 16520,
+    "timestampMs": 16250,
+    "confidence": 0.9989
+  },
+  {
+    "text": " Why",
+    "startMs": 17180,
+    "endMs": 17520,
+    "timestampMs": 17350,
+    "confidence": 0.9364
+  },
+  {
+    "text": " not",
+    "startMs": 17520,
+    "endMs": 17700,
+    "timestampMs": 17610,
+    "confidence": 0.9914
+  },
+  {
+    "text": " make",
+    "startMs": 17700,
+    "endMs": 17940,
+    "timestampMs": 17820,
+    "confidence": 0.9985
+  },
+  {
+    "text": " traffic",
+    "startMs": 17940,
+    "endMs": 18260,
+    "timestampMs": 18100,
+    "confidence": 0.9097
+  },
+  {
+    "text": " ticketing",
+    "startMs": 18260,
+    "endMs": 18960,
+    "timestampMs": 18610,
+    "confidence": 0.9615
+  },
+  {
+    "text": " smarter?",
+    "startMs": 18960,
+    "endMs": 19220,
+    "timestampMs": 19090,
+    "confidence": 0.999
+  }
+]

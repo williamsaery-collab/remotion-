@@ -1,0 +1,548 @@
+[
+  {
+    "text": " Creating",
+    "startMs": 110,
+    "endMs": 750,
+    "timestampMs": 430,
+    "confidence": 0.8742
+  },
+  {
+    "text": " a",
+    "startMs": 750,
+    "endMs": 1170,
+    "timestampMs": 960,
+    "confidence": 0.9904
+  },
+  {
+    "text": " traffic",
+    "startMs": 1170,
+    "endMs": 1430,
+    "timestampMs": 1300,
+    "confidence": 0.9276
+  },
+  {
+    "text": " ticket",
+    "startMs": 1430,
+    "endMs": 1990,
+    "timestampMs": 1710,
+    "confidence": 0.9967
+  },
+  {
+    "text": " is",
+    "startMs": 1990,
+    "endMs": 2330,
+    "timestampMs": 2160,
+    "confidence": 0.994
+  },
+  {
+    "text": " more",
+    "startMs": 2330,
+    "endMs": 2510,
+    "timestampMs": 2420,
+    "confidence": 0.9979
+  },
+  {
+    "text": " convenient",
+    "startMs": 2510,
+    "endMs": 3110,
+    "timestampMs": 2810,
+    "confidence": 0.9988
+  },
+  {
+    "text": " with",
+    "startMs": 3110,
+    "endMs": 3390,
+    "timestampMs": 3250,
+    "confidence": 0.9889
+  },
+  {
+    "text": " our",
+    "startMs": 3390,
+    "endMs": 3650,
+    "timestampMs": 3520,
+    "confidence": 0.9953
+  },
+  {
+    "text": " application.",
+    "startMs": 3650,
+    "endMs": 4150,
+    "timestampMs": 3900,
+    "confidence": 0.9636
+  },
+  {
+    "text": " Officers",
+    "startMs": 5230,
+    "endMs": 5610,
+    "timestampMs": 5420,
+    "confidence": 0.9571
+  },
+  {
+    "text": " can",
+    "startMs": 5610,
+    "endMs": 6010,
+    "timestampMs": 5810,
+    "confidence": 0.9991
+  },
+  {
+    "text": " enter",
+    "startMs": 6010,
+    "endMs": 6390,
+    "timestampMs": 6200,
+    "confidence": 0.998
+  },
+  {
+    "text": " the",
+    "startMs": 6390,
+    "endMs": 6570,
+    "timestampMs": 6480,
+    "confidence": 0.9768
+  },
+  {
+    "text": " regulator's",
+    "startMs": 6570,
+    "endMs": 7170,
+    "timestampMs": 6870,
+    "confidence": 0.5468
+  },
+  {
+    "text": " information,",
+    "startMs": 7170,
+    "endMs": 7390,
+    "timestampMs": 7280,
+    "confidence": 0.9944
+  },
+  {
+    "text": " select",
+    "startMs": 8270,
+    "endMs": 8710,
+    "timestampMs": 8490,
+    "confidence": 0.9944
+  },
+  {
+    "text": " and",
+    "startMs": 8710,
+    "endMs": 8990,
+    "timestampMs": 8850,
+    "confidence": 0.6132
+  },
+  {
+    "text": " address",
+    "startMs": 8990,
+    "endMs": 9390,
+    "timestampMs": 9190,
+    "confidence": 0.9901
+  },
+  {
+    "text": " and",
+    "startMs": 9390,
+    "endMs": 9850,
+    "timestampMs": 9620,
+    "confidence": 0.9732
+  },
+  {
+    "text": " record",
+    "startMs": 9850,
+    "endMs": 10150,
+    "timestampMs": 10000,
+    "confidence": 0.998
+  },
+  {
+    "text": " vehicle",
+    "startMs": 10150,
+    "endMs": 10650,
+    "timestampMs": 10400,
+    "confidence": 0.971
+  },
+  {
+    "text": " details",
+    "startMs": 10650,
+    "endMs": 11390,
+    "timestampMs": 11020,
+    "confidence": 0.9881
+  },
+  {
+    "text": " through",
+    "startMs": 11390,
+    "endMs": 11770,
+    "timestampMs": 11580,
+    "confidence": 0.9876
+  },
+  {
+    "text": " guided",
+    "startMs": 11770,
+    "endMs": 12090,
+    "timestampMs": 11930,
+    "confidence": 0.9374
+  },
+  {
+    "text": " steps.",
+    "startMs": 12090,
+    "endMs": 12510,
+    "timestampMs": 12300,
+    "confidence": 0.9959
+  },
+  {
+    "text": " We",
+    "startMs": 13610,
+    "endMs": 13870,
+    "timestampMs": 13740,
+    "confidence": 0.9931
+  },
+  {
+    "text": " also",
+    "startMs": 13870,
+    "endMs": 14070,
+    "timestampMs": 13970,
+    "confidence": 0.9982
+  },
+  {
+    "text": " included",
+    "startMs": 14070,
+    "endMs": 14690,
+    "timestampMs": 14380,
+    "confidence": 0.9793
+  },
+  {
+    "text": " input",
+    "startMs": 14690,
+    "endMs": 15190,
+    "timestampMs": 14940,
+    "confidence": 0.9769
+  },
+  {
+    "text": " validations",
+    "startMs": 15190,
+    "endMs": 15970,
+    "timestampMs": 15580,
+    "confidence": 0.9568
+  },
+  {
+    "text": " to",
+    "startMs": 15970,
+    "endMs": 16510,
+    "timestampMs": 16240,
+    "confidence": 0.9781
+  },
+  {
+    "text": " help",
+    "startMs": 16510,
+    "endMs": 16710,
+    "timestampMs": 16610,
+    "confidence": 0.9994
+  },
+  {
+    "text": " minimize",
+    "startMs": 16710,
+    "endMs": 17130,
+    "timestampMs": 16920,
+    "confidence": 0.9862
+  },
+  {
+    "text": " encoding",
+    "startMs": 17130,
+    "endMs": 17570,
+    "timestampMs": 17350,
+    "confidence": 0.9957
+  },
+  {
+    "text": " errors.",
+    "startMs": 17570,
+    "endMs": 18250,
+    "timestampMs": 17910,
+    "confidence": 0.9988
+  },
+  {
+    "text": " To",
+    "startMs": 19190,
+    "endMs": 19250,
+    "timestampMs": 19220,
+    "confidence": 0.9391
+  },
+  {
+    "text": " support",
+    "startMs": 19250,
+    "endMs": 19590,
+    "timestampMs": 19420,
+    "confidence": 0.9985
+  },
+  {
+    "text": " proper",
+    "startMs": 19590,
+    "endMs": 19930,
+    "timestampMs": 19760,
+    "confidence": 0.9962
+  },
+  {
+    "text": " documentation,",
+    "startMs": 19930,
+    "endMs": 20570,
+    "timestampMs": 20250,
+    "confidence": 0.9963
+  },
+  {
+    "text": " we",
+    "startMs": 21450,
+    "endMs": 21550,
+    "timestampMs": 21500,
+    "confidence": 0.9955
+  },
+  {
+    "text": " integrated",
+    "startMs": 21550,
+    "endMs": 22030,
+    "timestampMs": 21790,
+    "confidence": 0.9933
+  },
+  {
+    "text": " a",
+    "startMs": 22030,
+    "endMs": 22490,
+    "timestampMs": 22260,
+    "confidence": 0.9217
+  },
+  {
+    "text": " camera",
+    "startMs": 22490,
+    "endMs": 22810,
+    "timestampMs": 22650,
+    "confidence": 0.3446
+  },
+  {
+    "text": " feature",
+    "startMs": 22810,
+    "endMs": 23270,
+    "timestampMs": 23040,
+    "confidence": 0.4411
+  },
+  {
+    "text": " that",
+    "startMs": 23270,
+    "endMs": 23890,
+    "timestampMs": 23580,
+    "confidence": 0.978
+  },
+  {
+    "text": " allows",
+    "startMs": 23890,
+    "endMs": 24210,
+    "timestampMs": 24050,
+    "confidence": 0.9869
+  },
+  {
+    "text": " officers",
+    "startMs": 24210,
+    "endMs": 24810,
+    "timestampMs": 24510,
+    "confidence": 0.9496
+  },
+  {
+    "text": " to",
+    "startMs": 24810,
+    "endMs": 25150,
+    "timestampMs": 24980,
+    "confidence": 0.9983
+  },
+  {
+    "text": " capture",
+    "startMs": 25150,
+    "endMs": 25350,
+    "timestampMs": 25250,
+    "confidence": 0.9984
+  },
+  {
+    "text": " photo",
+    "startMs": 25350,
+    "endMs": 25750,
+    "timestampMs": 25550,
+    "confidence": 0.9908
+  },
+  {
+    "text": " evidence",
+    "startMs": 25750,
+    "endMs": 26170,
+    "timestampMs": 25960,
+    "confidence": 0.9475
+  },
+  {
+    "text": " directly",
+    "startMs": 26170,
+    "endMs": 26890,
+    "timestampMs": 26530,
+    "confidence": 0.9852
+  },
+  {
+    "text": " within",
+    "startMs": 26890,
+    "endMs": 27490,
+    "timestampMs": 27190,
+    "confidence": 0.9869
+  },
+  {
+    "text": " the",
+    "startMs": 27490,
+    "endMs": 27790,
+    "timestampMs": 27640,
+    "confidence": 0.9939
+  },
+  {
+    "text": " application.",
+    "startMs": 27790,
+    "endMs": 28130,
+    "timestampMs": 27960,
+    "confidence": 0.994
+  },
+  {
+    "text": " We",
+    "startMs": 28930,
+    "endMs": 29490,
+    "timestampMs": 29210,
+    "confidence": 0.5919
+  },
+  {
+    "text": " also",
+    "startMs": 29490,
+    "endMs": 29710,
+    "timestampMs": 29600,
+    "confidence": 0.991
+  },
+  {
+    "text": " included",
+    "startMs": 29710,
+    "endMs": 30310,
+    "timestampMs": 30010,
+    "confidence": 0.9276
+  },
+  {
+    "text": " location",
+    "startMs": 30310,
+    "endMs": 30770,
+    "timestampMs": 30540,
+    "confidence": 0.5957
+  },
+  {
+    "text": " functionality,",
+    "startMs": 30770,
+    "endMs": 31630,
+    "timestampMs": 31200,
+    "confidence": 0.9154
+  },
+  {
+    "text": " allowing",
+    "startMs": 32230,
+    "endMs": 32710,
+    "timestampMs": 32470,
+    "confidence": 0.9982
+  },
+  {
+    "text": " GPS",
+    "startMs": 32710,
+    "endMs": 33010,
+    "timestampMs": 32860,
+    "confidence": 0.9925
+  },
+  {
+    "text": " information",
+    "startMs": 33010,
+    "endMs": 33470,
+    "timestampMs": 33240,
+    "confidence": 0.9876
+  },
+  {
+    "text": " to",
+    "startMs": 33470,
+    "endMs": 34170,
+    "timestampMs": 33820,
+    "confidence": 0.9937
+  },
+  {
+    "text": " be",
+    "startMs": 34170,
+    "endMs": 34290,
+    "timestampMs": 34230,
+    "confidence": 0.9983
+  },
+  {
+    "text": " attached",
+    "startMs": 34290,
+    "endMs": 34550,
+    "timestampMs": 34420,
+    "confidence": 0.9782
+  },
+  {
+    "text": " when",
+    "startMs": 34550,
+    "endMs": 35050,
+    "timestampMs": 34800,
+    "confidence": 0.9738
+  },
+  {
+    "text": " available.",
+    "startMs": 35050,
+    "endMs": 35690,
+    "timestampMs": 35370,
+    "confidence": 0.9956
+  },
+  {
+    "text": " Bringing",
+    "startMs": 36330,
+    "endMs": 37050,
+    "timestampMs": 36690,
+    "confidence": 0.9712
+  },
+  {
+    "text": " innovation",
+    "startMs": 37050,
+    "endMs": 37610,
+    "timestampMs": 37330,
+    "confidence": 0.8773
+  },
+  {
+    "text": " to",
+    "startMs": 37610,
+    "endMs": 38130,
+    "timestampMs": 37870,
+    "confidence": 0.9812
+  },
+  {
+    "text": " traffic",
+    "startMs": 38130,
+    "endMs": 38410,
+    "timestampMs": 38270,
+    "confidence": 0.8918
+  },
+  {
+    "text": " enforcement.",
+    "startMs": 38410,
+    "endMs": 39170,
+    "timestampMs": 38790,
+    "confidence": 0.9929
+  },
+  {
+    "text": " Smarter",
+    "startMs": 39810,
+    "endMs": 40290,
+    "timestampMs": 40050,
+    "confidence": 0.8457
+  },
+  {
+    "text": " enforcement,",
+    "startMs": 40290,
+    "endMs": 40610,
+    "timestampMs": 40450,
+    "confidence": 0.9362
+  },
+  {
+    "text": " safer",
+    "startMs": 41390,
+    "endMs": 41750,
+    "timestampMs": 41570,
+    "confidence": 0.6806
+  },
+  {
+    "text": " roads.",
+    "startMs": 41750,
+    "endMs": 42350,
+    "timestampMs": 42050,
+    "confidence": 0.9952
+  }
+]

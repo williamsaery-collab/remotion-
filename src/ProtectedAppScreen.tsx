@@ -2,7 +2,7 @@ import {CanvasImage, getStaticFiles, staticFile, useVideoConfig} from 'remotion'
 // Coordinates are fractions of the supplied 576 x 1280 captures.
 // Opaque masks must stay on the same plane as the image throughout motion.
 const masks = {
- login: [[.10,.385,.80,.047],[.10,.46,.80,.047],[.29,.89,.44,.025]],
+ login: [], // Sensitive source pixels are redacted before publication.
  pin: [[.20,.305,.60,.035],[.29,.89,.44,.025]],
  dashboard: [], // Already redacted in the committed source PNG; preserve icons.
  violator: [], camera: [],

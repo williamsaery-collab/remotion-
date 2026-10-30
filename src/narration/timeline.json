@@ -1,0 +1,41 @@
+{
+  "fps": 30,
+  "tracks": [
+    {
+      "speaker": "ria",
+      "file": "voices/ria.mp3",
+      "sha256": "cf76273bfee1e1c7972ef0b376cce80ac25257152887854cc747c40c010ae926",
+      "sourceSeconds": 53.786122,
+      "fromFrame": 0,
+      "durationFrames": 1614,
+      "playbackRate": 1,
+      "trimStartFrames": 0
+    },
+    {
+      "speaker": "micah",
+      "file": "voices/micah.mp3",
+      "sha256": "2fd17558604628d7b13c6f29e2db83933b19206d12d09c58fb3488dab8126c29",
+      "sourceSeconds": 43.023673,
+      "fromFrame": 1629,
+      "durationFrames": 1291,
+      "playbackRate": 1,
+      "trimStartFrames": 0
+    },
+    {
+      "speaker": "joseph",
+      "file": "voices/joseph.mp3",
+      "sha256": "2002d2f5280c8814c0428f89509a363ca9a5225cf5e0003ec93981a69689bc79",
+      "sourceSeconds": 57.730612,
+      "fromFrame": 2935,
+      "durationFrames": 1732,
+      "playbackRate": 1,
+      "trimStartFrames": 0
+    }
+  ],
+  "closingFromFrame": 4667,
+  "closingDurationFrames": 360,
+  "plannedDurationFrames": 5027,
+  "previewDurationFrames": 600,
+  "previewSource": "ria",
+  "previewBoundaryNote": "Ria phrase ends 19.22s; next phrase starts 20.92s. Preview ends during pause at 20s."
+}

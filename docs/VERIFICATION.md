@@ -59,3 +59,24 @@ The opening production build, type check, project tests and Studio browser check
 passed. A complete 15-second 1080p/30fps opening with the real dashboard rendered
 successfully. Final export removes redundant overlays to preserve dashboard icons.
 No voice-over is used until the team's original recordings are provided.
+
+## 20-second preview with official recordings
+
+All provided media was accessible. ffprobe measured reference 96.04s; Ria
+53.786122s, Micah 43.023673s, Joseph 57.730612s. Original MP3 SHA-256 values match
+committed copies exactly. All three were transcribed locally for word timing;
+50ms RMS waveform data is retained. First 20s captions were checked against the
+scene guide; remaining ASR transcripts are explicitly drafts.
+
+Preview20 production bundle and project tests passed. Studio browser check passed.
+The complete sample rendered as 600 frames at 1920x1080/30fps with an AAC audio
+stream. Container length is about 20.011s due to audio encoding; video is exactly
+20.000s. Decoded sample/source waveform correlation was 0.99936 after accounting
+for a 25ms AAC encoding offset (less than one video frame). No time stretching,
+voice synthesis, source-word cuts or narration processing was applied.
+
+Road/problem and real-login hero frames were inspected. The caption display was
+refined to keep phrases readable across short word gaps. Credentials and server
+address are irreversibly masked in the login PNG, inspected before publication.
+Legacy full-film audio was disabled so old cue durations cannot truncate these
+new official recordings. Full production remains pending preview approval.

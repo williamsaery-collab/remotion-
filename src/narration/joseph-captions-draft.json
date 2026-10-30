@@ -1,0 +1,800 @@
+[
+  {
+    "text": " violation",
+    "startMs": 590,
+    "endMs": 1410,
+    "timestampMs": 1000,
+    "confidence": 0.0715
+  },
+  {
+    "text": " and",
+    "startMs": 1410,
+    "endMs": 1650,
+    "timestampMs": 1530,
+    "confidence": 0.8209
+  },
+  {
+    "text": " fines.",
+    "startMs": 1650,
+    "endMs": 1890,
+    "timestampMs": 1770,
+    "confidence": 0.8464
+  },
+  {
+    "text": " One",
+    "startMs": 2550,
+    "endMs": 2670,
+    "timestampMs": 2610,
+    "confidence": 0.9795
+  },
+  {
+    "text": " of",
+    "startMs": 2670,
+    "endMs": 2910,
+    "timestampMs": 2790,
+    "confidence": 0.9979
+  },
+  {
+    "text": " the",
+    "startMs": 2910,
+    "endMs": 3050,
+    "timestampMs": 2980,
+    "confidence": 0.9914
+  },
+  {
+    "text": " key",
+    "startMs": 3050,
+    "endMs": 3250,
+    "timestampMs": 3150,
+    "confidence": 0.9991
+  },
+  {
+    "text": " features",
+    "startMs": 3250,
+    "endMs": 3670,
+    "timestampMs": 3460,
+    "confidence": 0.9983
+  },
+  {
+    "text": " we",
+    "startMs": 3670,
+    "endMs": 4110,
+    "timestampMs": 3890,
+    "confidence": 0.9908
+  },
+  {
+    "text": " developed",
+    "startMs": 4110,
+    "endMs": 4490,
+    "timestampMs": 4300,
+    "confidence": 0.7592
+  },
+  {
+    "text": " is",
+    "startMs": 4490,
+    "endMs": 4850,
+    "timestampMs": 4670,
+    "confidence": 0.9695
+  },
+  {
+    "text": " our",
+    "startMs": 4850,
+    "endMs": 5010,
+    "timestampMs": 4930,
+    "confidence": 0.9846
+  },
+  {
+    "text": " violation",
+    "startMs": 5010,
+    "endMs": 5370,
+    "timestampMs": 5190,
+    "confidence": 0.4943
+  },
+  {
+    "text": " selection",
+    "startMs": 5370,
+    "endMs": 5850,
+    "timestampMs": 5610,
+    "confidence": 0.9853
+  },
+  {
+    "text": " system.",
+    "startMs": 5850,
+    "endMs": 6450,
+    "timestampMs": 6150,
+    "confidence": 0.9985
+  },
+  {
+    "text": " Officers",
+    "startMs": 7110,
+    "endMs": 7670,
+    "timestampMs": 7390,
+    "confidence": 0.9774
+  },
+  {
+    "text": " can",
+    "startMs": 7670,
+    "endMs": 8010,
+    "timestampMs": 7840,
+    "confidence": 0.9983
+  },
+  {
+    "text": " select",
+    "startMs": 8010,
+    "endMs": 8410,
+    "timestampMs": 8210,
+    "confidence": 0.9984
+  },
+  {
+    "text": " the",
+    "startMs": 8410,
+    "endMs": 8610,
+    "timestampMs": 8510,
+    "confidence": 0.8961
+  },
+  {
+    "text": " applicable",
+    "startMs": 8610,
+    "endMs": 8850,
+    "timestampMs": 8730,
+    "confidence": 0.9975
+  },
+  {
+    "text": " traffic",
+    "startMs": 8850,
+    "endMs": 9470,
+    "timestampMs": 9160,
+    "confidence": 0.9931
+  },
+  {
+    "text": " violations",
+    "startMs": 9470,
+    "endMs": 10130,
+    "timestampMs": 9800,
+    "confidence": 0.9899
+  },
+  {
+    "text": " and",
+    "startMs": 10130,
+    "endMs": 10810,
+    "timestampMs": 10470,
+    "confidence": 0.8367
+  },
+  {
+    "text": " our",
+    "startMs": 10810,
+    "endMs": 11010,
+    "timestampMs": 10910,
+    "confidence": 0.9704
+  },
+  {
+    "text": " applications",
+    "startMs": 11010,
+    "endMs": 11450,
+    "timestampMs": 11230,
+    "confidence": 0.9084
+  },
+  {
+    "text": " automatically",
+    "startMs": 11450,
+    "endMs": 12310,
+    "timestampMs": 11880,
+    "confidence": 0.9839
+  },
+  {
+    "text": " calculates",
+    "startMs": 12310,
+    "endMs": 13490,
+    "timestampMs": 12900,
+    "confidence": 0.2761
+  },
+  {
+    "text": " the",
+    "startMs": 13490,
+    "endMs": 13770,
+    "timestampMs": 13630,
+    "confidence": 0.9882
+  },
+  {
+    "text": " corresponding",
+    "startMs": 13770,
+    "endMs": 14370,
+    "timestampMs": 14070,
+    "confidence": 0.9976
+  },
+  {
+    "text": " total",
+    "startMs": 14370,
+    "endMs": 14690,
+    "timestampMs": 14530,
+    "confidence": 0.9863
+  },
+  {
+    "text": " fines.",
+    "startMs": 14690,
+    "endMs": 15170,
+    "timestampMs": 14930,
+    "confidence": 0.9986
+  },
+  {
+    "text": " This",
+    "startMs": 15910,
+    "endMs": 16170,
+    "timestampMs": 16040,
+    "confidence": 0.9778
+  },
+  {
+    "text": " reduced",
+    "startMs": 16170,
+    "endMs": 16510,
+    "timestampMs": 16340,
+    "confidence": 0.4135
+  },
+  {
+    "text": " the",
+    "startMs": 16510,
+    "endMs": 16850,
+    "timestampMs": 16680,
+    "confidence": 0.9372
+  },
+  {
+    "text": " manual",
+    "startMs": 16850,
+    "endMs": 17110,
+    "timestampMs": 16980,
+    "confidence": 0.8724
+  },
+  {
+    "text": " compensation",
+    "startMs": 17110,
+    "endMs": 17750,
+    "timestampMs": 17430,
+    "confidence": 0.9962
+  },
+  {
+    "text": " during",
+    "startMs": 17750,
+    "endMs": 18410,
+    "timestampMs": 18080,
+    "confidence": 0.9962
+  },
+  {
+    "text": " the",
+    "startMs": 18410,
+    "endMs": 18710,
+    "timestampMs": 18560,
+    "confidence": 0.9766
+  },
+  {
+    "text": " ticket",
+    "startMs": 18710,
+    "endMs": 19310,
+    "timestampMs": 19010,
+    "confidence": 0.9926
+  },
+  {
+    "text": " preparation",
+    "startMs": 19310,
+    "endMs": 19870,
+    "timestampMs": 19590,
+    "confidence": 0.9871
+  },
+  {
+    "text": " and",
+    "startMs": 19870,
+    "endMs": 21390,
+    "timestampMs": 20630,
+    "confidence": 0.3684
+  },
+  {
+    "text": " second",
+    "startMs": 21390,
+    "endMs": 21550,
+    "timestampMs": 21470,
+    "confidence": 0.4335
+  },
+  {
+    "text": " is",
+    "startMs": 21550,
+    "endMs": 21890,
+    "timestampMs": 21720,
+    "confidence": 0.959
+  },
+  {
+    "text": " the",
+    "startMs": 21890,
+    "endMs": 22090,
+    "timestampMs": 21990,
+    "confidence": 0.8797
+  },
+  {
+    "text": " digital",
+    "startMs": 22090,
+    "endMs": 22750,
+    "timestampMs": 22420,
+    "confidence": 0.8898
+  },
+  {
+    "text": " traffic",
+    "startMs": 22750,
+    "endMs": 23230,
+    "timestampMs": 22990,
+    "confidence": 0.9963
+  },
+  {
+    "text": " ticket.",
+    "startMs": 23230,
+    "endMs": 23490,
+    "timestampMs": 23360,
+    "confidence": 0.992
+  },
+  {
+    "text": " After",
+    "startMs": 24150,
+    "endMs": 24890,
+    "timestampMs": 24520,
+    "confidence": 0.9934
+  },
+  {
+    "text": " completing",
+    "startMs": 24890,
+    "endMs": 25370,
+    "timestampMs": 25130,
+    "confidence": 0.9995
+  },
+  {
+    "text": " that",
+    "startMs": 25370,
+    "endMs": 25670,
+    "timestampMs": 25520,
+    "confidence": 0.7024
+  },
+  {
+    "text": " required",
+    "startMs": 25670,
+    "endMs": 25930,
+    "timestampMs": 25800,
+    "confidence": 0.5657
+  },
+  {
+    "text": " information",
+    "startMs": 25930,
+    "endMs": 26530,
+    "timestampMs": 26230,
+    "confidence": 0.9938
+  },
+  {
+    "text": " our",
+    "startMs": 26530,
+    "endMs": 27090,
+    "timestampMs": 26810,
+    "confidence": 0.5171
+  },
+  {
+    "text": " application",
+    "startMs": 27090,
+    "endMs": 27410,
+    "timestampMs": 27250,
+    "confidence": 0.9542
+  },
+  {
+    "text": " generates",
+    "startMs": 27410,
+    "endMs": 27970,
+    "timestampMs": 27690,
+    "confidence": 0.942
+  },
+  {
+    "text": " a",
+    "startMs": 27970,
+    "endMs": 28270,
+    "timestampMs": 28120,
+    "confidence": 0.9918
+  },
+  {
+    "text": " digital",
+    "startMs": 28270,
+    "endMs": 28510,
+    "timestampMs": 28390,
+    "confidence": 0.9705
+  },
+  {
+    "text": " traffic",
+    "startMs": 28510,
+    "endMs": 29050,
+    "timestampMs": 28780,
+    "confidence": 0.9962
+  },
+  {
+    "text": " violation",
+    "startMs": 29050,
+    "endMs": 29570,
+    "timestampMs": 29310,
+    "confidence": 0.9911
+  },
+  {
+    "text": " ticket.",
+    "startMs": 29570,
+    "endMs": 29990,
+    "timestampMs": 29780,
+    "confidence": 0.0019
+  },
+  {
+    "text": " Each",
+    "startMs": 30450,
+    "endMs": 31010,
+    "timestampMs": 30730,
+    "confidence": 0.9901
+  },
+  {
+    "text": " ticket",
+    "startMs": 31010,
+    "endMs": 31270,
+    "timestampMs": 31140,
+    "confidence": 0.9905
+  },
+  {
+    "text": " includes",
+    "startMs": 31270,
+    "endMs": 31870,
+    "timestampMs": 31570,
+    "confidence": 0.8879
+  },
+  {
+    "text": " a",
+    "startMs": 31870,
+    "endMs": 32190,
+    "timestampMs": 32030,
+    "confidence": 0.9914
+  },
+  {
+    "text": " unique",
+    "startMs": 32190,
+    "endMs": 32490,
+    "timestampMs": 32340,
+    "confidence": 0.9982
+  },
+  {
+    "text": " reference",
+    "startMs": 32490,
+    "endMs": 33190,
+    "timestampMs": 32840,
+    "confidence": 0.7777
+  },
+  {
+    "text": " number",
+    "startMs": 33190,
+    "endMs": 33670,
+    "timestampMs": 33430,
+    "confidence": 0.9956
+  },
+  {
+    "text": " and",
+    "startMs": 33670,
+    "endMs": 34030,
+    "timestampMs": 33850,
+    "confidence": 0.983
+  },
+  {
+    "text": " QR",
+    "startMs": 34030,
+    "endMs": 34310,
+    "timestampMs": 34170,
+    "confidence": 0.9977
+  },
+  {
+    "text": " code",
+    "startMs": 34310,
+    "endMs": 34670,
+    "timestampMs": 34490,
+    "confidence": 0.9813
+  },
+  {
+    "text": " to",
+    "startMs": 34670,
+    "endMs": 34890,
+    "timestampMs": 34780,
+    "confidence": 0.9869
+  },
+  {
+    "text": " support",
+    "startMs": 34890,
+    "endMs": 35190,
+    "timestampMs": 35040,
+    "confidence": 0.9951
+  },
+  {
+    "text": " organized",
+    "startMs": 35190,
+    "endMs": 35650,
+    "timestampMs": 35420,
+    "confidence": 0.3169
+  },
+  {
+    "text": " or",
+    "startMs": 35650,
+    "endMs": 36030,
+    "timestampMs": 35840,
+    "confidence": 0.835
+  },
+  {
+    "text": " record",
+    "startMs": 36030,
+    "endMs": 36310,
+    "timestampMs": 36170,
+    "confidence": 0.9492
+  },
+  {
+    "text": " management",
+    "startMs": 36310,
+    "endMs": 36670,
+    "timestampMs": 36490,
+    "confidence": 0.9985
+  },
+  {
+    "text": " and",
+    "startMs": 36670,
+    "endMs": 38110,
+    "timestampMs": 37390,
+    "confidence": 0.1234
+  },
+  {
+    "text": " last",
+    "startMs": 38110,
+    "endMs": 38330,
+    "timestampMs": 38220,
+    "confidence": 0.897
+  },
+  {
+    "text": " is",
+    "startMs": 38330,
+    "endMs": 38550,
+    "timestampMs": 38440,
+    "confidence": 0.987
+  },
+  {
+    "text": " the",
+    "startMs": 38550,
+    "endMs": 38750,
+    "timestampMs": 38650,
+    "confidence": 0.9897
+  },
+  {
+    "text": " offline",
+    "startMs": 38750,
+    "endMs": 38950,
+    "timestampMs": 38850,
+    "confidence": 0.9828
+  },
+  {
+    "text": " capability.",
+    "startMs": 38950,
+    "endMs": 39350,
+    "timestampMs": 39150,
+    "confidence": 0.991
+  },
+  {
+    "text": " We",
+    "startMs": 40570,
+    "endMs": 40630,
+    "timestampMs": 40600,
+    "confidence": 0.9741
+  },
+  {
+    "text": " also",
+    "startMs": 40630,
+    "endMs": 40950,
+    "timestampMs": 40790,
+    "confidence": 0.9982
+  },
+  {
+    "text": " designed",
+    "startMs": 40950,
+    "endMs": 41270,
+    "timestampMs": 41110,
+    "confidence": 0.9035
+  },
+  {
+    "text": " our",
+    "startMs": 41270,
+    "endMs": 41610,
+    "timestampMs": 41440,
+    "confidence": 0.9677
+  },
+  {
+    "text": " application",
+    "startMs": 41610,
+    "endMs": 41950,
+    "timestampMs": 41780,
+    "confidence": 0.9701
+  },
+  {
+    "text": " with",
+    "startMs": 41950,
+    "endMs": 42490,
+    "timestampMs": 42220,
+    "confidence": 0.9948
+  },
+  {
+    "text": " offline",
+    "startMs": 42490,
+    "endMs": 42950,
+    "timestampMs": 42720,
+    "confidence": 0.9783
+  },
+  {
+    "text": " first",
+    "startMs": 42950,
+    "endMs": 43310,
+    "timestampMs": 43130,
+    "confidence": 0.7369
+  },
+  {
+    "text": " functionality.",
+    "startMs": 43310,
+    "endMs": 43930,
+    "timestampMs": 43620,
+    "confidence": 0.8663
+  },
+  {
+    "text": " Traffic",
+    "startMs": 44750,
+    "endMs": 45470,
+    "timestampMs": 45110,
+    "confidence": 0.9468
+  },
+  {
+    "text": " ticket",
+    "startMs": 45470,
+    "endMs": 45910,
+    "timestampMs": 45690,
+    "confidence": 0.9686
+  },
+  {
+    "text": " records",
+    "startMs": 45910,
+    "endMs": 46310,
+    "timestampMs": 46110,
+    "confidence": 0.988
+  },
+  {
+    "text": " can",
+    "startMs": 46310,
+    "endMs": 46710,
+    "timestampMs": 46510,
+    "confidence": 0.998
+  },
+  {
+    "text": " be",
+    "startMs": 46710,
+    "endMs": 46890,
+    "timestampMs": 46800,
+    "confidence": 0.9947
+  },
+  {
+    "text": " saved",
+    "startMs": 46890,
+    "endMs": 47150,
+    "timestampMs": 47020,
+    "confidence": 0.8027
+  },
+  {
+    "text": " locally",
+    "startMs": 47150,
+    "endMs": 47510,
+    "timestampMs": 47330,
+    "confidence": 0.9639
+  },
+  {
+    "text": " when",
+    "startMs": 47510,
+    "endMs": 48190,
+    "timestampMs": 47850,
+    "confidence": 0.8316
+  },
+  {
+    "text": " the",
+    "startMs": 48190,
+    "endMs": 48370,
+    "timestampMs": 48280,
+    "confidence": 0.9905
+  },
+  {
+    "text": " internet",
+    "startMs": 48370,
+    "endMs": 48670,
+    "timestampMs": 48520,
+    "confidence": 0.7872
+  },
+  {
+    "text": " connectivity",
+    "startMs": 48670,
+    "endMs": 49310,
+    "timestampMs": 48990,
+    "confidence": 0.9915
+  },
+  {
+    "text": " is",
+    "startMs": 49310,
+    "endMs": 49870,
+    "timestampMs": 49590,
+    "confidence": 0.9982
+  },
+  {
+    "text": " unavailable",
+    "startMs": 49870,
+    "endMs": 50210,
+    "timestampMs": 50040,
+    "confidence": 0.9443
+  },
+  {
+    "text": " and",
+    "startMs": 50210,
+    "endMs": 51350,
+    "timestampMs": 50780,
+    "confidence": 0.919
+  },
+  {
+    "text": " synchronize",
+    "startMs": 51350,
+    "endMs": 51950,
+    "timestampMs": 51650,
+    "confidence": 0.4828
+  },
+  {
+    "text": " with",
+    "startMs": 51950,
+    "endMs": 52150,
+    "timestampMs": 52050,
+    "confidence": 0.9891
+  },
+  {
+    "text": " a",
+    "startMs": 52150,
+    "endMs": 52250,
+    "timestampMs": 52200,
+    "confidence": 0.8657
+  },
+  {
+    "text": " server",
+    "startMs": 52250,
+    "endMs": 52490,
+    "timestampMs": 52370,
+    "confidence": 0.9794
+  },
+  {
+    "text": " once",
+    "startMs": 52490,
+    "endMs": 52950,
+    "timestampMs": 52720,
+    "confidence": 0.8639
+  },
+  {
+    "text": " the",
+    "startMs": 52950,
+    "endMs": 53130,
+    "timestampMs": 53040,
+    "confidence": 0.958
+  },
+  {
+    "text": " connection",
+    "startMs": 53130,
+    "endMs": 53370,
+    "timestampMs": 53250,
+    "confidence": 0.9838
+  },
+  {
+    "text": " is",
+    "startMs": 53370,
+    "endMs": 53790,
+    "timestampMs": 53580,
+    "confidence": 0.9971
+  },
+  {
+    "text": " explored.",
+    "startMs": 53790,
+    "endMs": 54130,
+    "timestampMs": 53960,
+    "confidence": 0.4272
+  }
+]
